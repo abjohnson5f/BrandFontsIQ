@@ -55,21 +55,26 @@ BrandFontsIQ aims to connect with analytics tools to enhance data collection:
 
 BrandFontsIQ's integration architecture is designed for flexibility and scalability:
 
-```mermaid flowchart TD
-    subgraph "BrandFontsIQ Core"
+```mermaid
+flowchart TD
+    subgraph Core["BrandFontsIQ Core"]
         A["Font Data Repository"] --- B["Analysis Engine"] --- C["Reporting Engine"]
     end
-    subgraph "Integration Layer"
+    
+    subgraph Integration["Integration Layer"]
         D["Integration Connectors"] --- E["Business Logic"] --- F["Enterprise Systems"]
     end
-    subgraph "External Systems"
+    
+    subgraph External["External Systems"]
         G["Font Management Solutions"] --- H["Analytics Platforms"]
     end
+    
     A <--> D
     C <--> F
     D <--> G
     F <--> H
 ```
+
 This modular architecture ensures that BrandFontsIQ can integrate with existing enterprise systems while maintaining its core functionality and value proposition. The design principles include:
 
 1. **Core Separation**: The central analysis engine remains independent from integration points
