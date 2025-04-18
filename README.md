@@ -1,31 +1,30 @@
-# BrandFontsIQ Documentation
+# BrandFontsIQ - Technical Documentation
 
-BrandFontsIQ is a comprehensive analytics platform that quantifies the business value of typography optimization and management. This documentation provides a detailed overview of the platform's calculations, features, and integration capabilities.
+## Project Overview
 
-## What is BrandFontsIQ?
+BrandFontsIQ is a font strategy and analytics platform in development that will help enterprises quantify the business impact of typography decisions. This repository contains technical documentation, architecture plans, and product roadmaps.
 
-BrandFontsIQ delivers data-driven insights that connect typography decisions to measurable business outcomes:
+## Current Development Status
 
-- **Performance Optimization**: Quantifies page speed improvements and bandwidth savings
-- **Emotional Connection**: Measures impact on brand perception and customer engagement
-- **Operational Efficiency**: Calculates resource utilization and productivity gains
-- **Risk Mitigation**: Assesses licensing compliance and external dependencies
+BrandFontsIQ is currently in the conceptual and early development phase. This documentation reflects the planned architecture and specifications, which will evolve as development progresses.
 
-## Core Features
+## Repository Structure
 
-- Financial impact calculators with ROI modeling
-- Strategic value analysis tools
-- Integration with font management systems
-- Enterprise presentation and reporting capabilities
+- **[Architecture](./architecture/)**: Planned system architecture and design diagrams
+- **[Technical Specifications](./technical-specs/)**: Component specifications and functional requirements
+- **[Research](./research/)**: Background research informing our methodology
+- **[Roadmap](./roadmap/)**: Product development roadmap and milestones
+- **[Development Guide](./development-guide/)**: Guidelines for future development
 
-## Getting Started
+## Project Vision
 
-- [Key Calculations](calculations.md)
-- [Financial Impact Analysis](financial-impact.md)
-- [Business Value Components](business-value.md)
-- [Integration Capabilities](integration.md)
-- [User Guide](user-guide.md)
+BrandFontsIQ aims to bridge the gap between typography management and business outcomes by:
 
-## Business Value 
+1. Quantifying the performance impact of font optimization
+2. Translating typography decisions into business metrics
+3. Providing actionable insights for enterprise decision-makers
+4. Creating a clear connection between font strategy and ROI
 
-BrandFontsIQ transforms typography from a design consideration into a strategic business asset by providing clear, quantifiable metrics that demonstrate ROI and business impact.
+## Contact
+
+For questions about BrandFontsIQ, please contact Alex Johnson at alex@brandfontsiq.com.
