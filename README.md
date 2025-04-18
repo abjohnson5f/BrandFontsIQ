@@ -10,11 +10,14 @@ BrandFontsIQ is currently in the conceptual and early development phase. This do
 
 ## Repository Structure
 
+- **[Executive Summary](./executive-summary/)**: High-level business overview and value proposition
 - **[Architecture](./architecture/)**: Planned system architecture and design diagrams
 - **[Technical Specifications](./technical-specs/)**: Component specifications and functional requirements
 - **[Research](./research/)**: Background research informing our methodology
 - **[Roadmap](./roadmap/)**: Product development roadmap and milestones
+- **[User Experience](./user-experience/)**: User personas and journey documentation
 - **[Development Guide](./development-guide/)**: Guidelines for future development
+- **[Glossary](./glossary/)**: Standardized terminology
 
 ## Project Vision
 
