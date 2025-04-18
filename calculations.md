@@ -11,4 +11,4 @@ The risk analysis calculations identify potential vulnerabilities in font implem
 const externalFonts = fontData.filter((font) => font.hostingType === "external");
 const externalHostingDependency = Math.round((externalFonts.length / fontData.length) * 100) || 0;
 
-### Font Format Inconsistency
+```### Font Format Inconsistency
