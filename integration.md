@@ -55,55 +55,21 @@ BrandFontsIQ aims to connect with analytics tools to enhance data collection:
 
 BrandFontsIQ's integration architecture is designed for flexibility and scalability:
 
-<table width="100%" style="text-align: center; border-collapse: collapse;">
-  <tr>
-    <td colspan="3" style="border: 1px solid #ddd; padding: 8px;">
-      <strong>BrandFontsIQ Core</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" style="border: 1px solid #ddd; padding: 8px;">
-      Font Data Repository • Analysis Engine • Reporting Engine
-    </td>
-  </tr>
-</table>
-
-<div style="text-align: center; padding: 10px;">
-  ↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑
-</div>
-
-<table width="100%" style="text-align: center; border-collapse: collapse;">
-  <tr>
-    <td colspan="3" style="border: 1px solid #ddd; padding: 8px;">
-      <strong>Integration Layer</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" style="border: 1px solid #ddd; padding: 8px;">
-      Integration Connectors • Business Logic • Enterprise Systems
-    </td>
-  </tr>
-</table>
-
-<div style="text-align: center; padding: 10px;">
-  ↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑
-</div>
-
-<table width="100%" style="text-align: center; border-collapse: collapse;">
-  <tr>
-    <td colspan="3" style="border: 1px solid #ddd; padding: 8px;">
-      <strong>External Systems</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">
-      Font Management Solutions
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">
-      Analytics Platforms
-    </td>
-  </tr>
-</table>
+```mermaid
+flowchart TD
+    subgraph "BrandFontsIQ Core"
+        A["Font Data Repository"] --- B["Analysis Engine"] --- C["Reporting Engine"]
+    end
+    subgraph "Integration Layer"
+        D["Integration Connectors"] --- E["Business Logic"] --- F["Enterprise Systems"]
+    end
+    subgraph "External Systems"
+        G["Font Management Solutions"] --- H["Analytics Platforms"]
+    end
+    A <--> D
+    C <--> F
+    D <--> G
+    F <--> H
 
 This modular architecture ensures that BrandFontsIQ can integrate with existing enterprise systems while maintaining its core functionality and value proposition. The design principles include:
 
