@@ -55,24 +55,21 @@ BrandFontsIQ aims to connect with analytics tools to enhance data collection:
 
 BrandFontsIQ's integration architecture is designed for flexibility and scalability:
 
-┌─────────────────────────────────────────────┐
-│              BrandFontsIQ Core              │
-├─────────────┬───────────────┬───────────────┤
-│ Font Data   │ Analysis      │ Reporting     │
-│ Repository  │ Engine        │ Engine        │
-└─────────────┴───────────────┴───────────────┘
-▲                │                ▲
-│                ▼                │
-┌───────┴────────┐ ┌──────────────┐ ┌────┴───────────┐
-│  Integration   │ │  Business    │ │  Enterprise    │
-│  Connectors    │ │  Logic       │ │  Systems       │
-└───────┬────────┘ └──────────────┘ └────┬───────────┘
-│                                 │
-▼                                 ▼
-┌─────────────────┐               ┌─────────────────┐
-│ Font Management │               │    Analytics    │
-│ Solutions       │               │    Platforms    │
-└─────────────────┘               └─────────────────┘
+| **BrandFontsIQ Core** |
+|:----------------------:|
+| Font Data Repository • Analysis Engine • Reporting Engine |
+
+↓ ↑ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ ↑
+
+| **Integration Layer** |
+|:---------------------:|
+| Integration Connectors • Business Logic • Enterprise Systems |
+
+↓ ↑ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↓ ↑
+
+| **External Systems** |
+|:--------------------:|
+| Font Management Solutions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytics Platforms |
 
 This modular architecture ensures that BrandFontsIQ can integrate with existing enterprise systems while maintaining its core functionality and value proposition. The design principles include:
 
