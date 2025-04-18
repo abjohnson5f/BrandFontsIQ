@@ -27,18 +27,18 @@ The development environment will include:
 
 ## Code Organization (Proposed)
 src/
-├── components/      # Reusable UI components
-│   ├── charts/      # Visualization components
-│   ├── dashboard/   # Dashboard components
-│   └── common/      # Common UI elements
-├── lib/             # Utility functions and calculations
-│   ├── calculators/ # ROI and impact calculators
-│   ├── parsers/     # Data parsing utilities
-│   └── utils/       # Helper functions
-├── context/         # React context for state management
-├── hooks/           # Custom React hooks
-├── pages/           # Page components
-└── types/           # TypeScript type definitions
+|-- components/      # Reusable UI components
+|   |-- charts/      # Visualization components
+|   |-- dashboard/   # Dashboard components
+|   |-- common/      # Common UI elements
+|-- lib/             # Utility functions and calculations
+|   |-- calculators/ # ROI and impact calculators
+|   |-- parsers/     # Data parsing utilities
+|   |-- utils/       # Helper functions
+|-- context/         # React context for state management
+|-- hooks/           # Custom React hooks
+|-- pages/           # Page components
+|-- types/           # TypeScript type definitions
 
 ## Development Roadmap
 
