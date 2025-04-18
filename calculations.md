@@ -24,3 +24,8 @@ fontData.forEach((font) => {
 const inconsistentFonts = Array.from(fontsByName.values()).filter((formats) => formats.size > 1).length;
 const inconsistentFontFormats = fontsByName.size > 0 ? Math.round((inconsistentFonts / fontsByName.size) * 100) : 0;
 ```
+###Licensing Verification
+```typescript
+const unverifiedFonts = fontData.filter((font) => !font.licenseVerified);
+const licenseVerificationNeeded = Math.round((unverifiedFonts.length / fontData.length) * 100) || 0;
+```
