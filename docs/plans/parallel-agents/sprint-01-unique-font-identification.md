@@ -92,16 +92,29 @@ Each agent should produce:
 2. **Results Report** showing:
    - Total rows processed: 2,135
    - Unique fonts found: [your count]
-   - Top 10 most frequent fonts
-   - Complete list of unique fonts
+   - **Frequency Table** of ALL unique fonts:
+     | Standardized Font Name | Instance Count |
+     |------------------------|----------------|
+     | Gotham ScreenSmart Bold | 47 |
+     | Helvetica Regular | 34 |
+     | Arial Bold | 28 |
+     | ... | ... |
+   - Table should be sorted by instance count (descending)
+   - Include ALL unique fonts found, not just top 10
 
 3. **Test Results** demonstrating accuracy
    - Unit tests for standardization rules
    - Integration test with sample data
 
-4. **Full Dataset Export**
-   - CSV/JSON with all 2,135 rows with standardized names
-   - Preserves all original data plus adds standardized column
+4. **Data Exports** (two separate files):
+   - **Full Dataset**: CSV/JSON with all 2,135 rows
+     - Preserves all original columns
+     - Adds "standardized_font_name" column
+     - Adds "font_instance_number" column (e.g., "Instance 23 of 47")
+   - **Unique Fonts Summary**: CSV/JSON with frequency table
+     - Columns: standardized_font_name, instance_count
+     - Sorted by instance_count (highest first)
+     - Example: `unique-fonts-summary.csv`
 
 ## Technical Stack
 
