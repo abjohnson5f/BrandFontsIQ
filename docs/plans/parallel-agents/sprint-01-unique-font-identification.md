@@ -47,8 +47,9 @@ Check columns in this order:
 
 ```typescript
 // Key standardizations to implement
-'Gotham SSm' → 'Gotham Screen Smart'
-'GothamSSm' → 'Gotham Screen Smart'
+'Gotham SSm' → 'Gotham ScreenSmart'
+'GothamSSm' → 'Gotham ScreenSmart'
+'Gotham Screen Smart' → 'Gotham ScreenSmart'
 'Bd' → 'Bold'
 'Lt' → 'Light'
 'Md' → 'Medium'
@@ -65,8 +66,8 @@ Check columns in this order:
 ### 4. Example Processing
 
 ```
-Raw Input: "GothamSSm Bold", "Gotham SSm Bold", "Gotham Bold"
-After Standardization: All become "Gotham Screen Smart Bold"
+Raw Input: "GothamSSm Bold", "Gotham SSm Bold", "Gotham Screen Smart Bold"
+After Standardization: All become "Gotham ScreenSmart Bold"
 Result: 1 unique font (appearing 3 times)
 ```
 
@@ -81,10 +82,12 @@ Result: 1 unique font (appearing 3 times)
 
 Each agent should produce:
 
-1. **Implementation** (`/src/lib/font-identifier/`)
-   - Excel parsing logic
-   - Standardization engine
-   - Unique counting algorithm
+1. **Working Code Implementation**
+   - `/src/lib/font-identifier/index.ts` - Main font identification logic
+   - `/src/lib/font-identifier/standardizer.ts` - Name standardization rules
+   - `/src/lib/font-identifier/parser.ts` - Excel parsing functionality
+   - `/app/api/fonts/identify/route.ts` - API endpoint to run identification
+   - `/app/fonts/page.tsx` - Simple UI to upload file and see results
 
 2. **Results Report** showing:
    - Total rows processed: 2,135
@@ -93,8 +96,12 @@ Each agent should produce:
    - Complete list of unique fonts
 
 3. **Test Results** demonstrating accuracy
+   - Unit tests for standardization rules
+   - Integration test with sample data
 
-4. **Full Dataset** with standardized names (all 2,135 rows preserved)
+4. **Full Dataset Export**
+   - CSV/JSON with all 2,135 rows with standardized names
+   - Preserves all original data plus adds standardized column
 
 ## Technical Stack
 
