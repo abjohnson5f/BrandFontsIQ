@@ -41,3 +41,9 @@ next-env.d.ts
 
 # parallel development trees
 /trees/
+
+# Claude memory/documentation files
+CLAUDE*.md
+PARALLEL_AGENTS_SUMMARY.md
+HYBRID_IMPLEMENTATION_RESULTS.md
+**/CLAUDE.md
