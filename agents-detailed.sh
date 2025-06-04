@@ -1,0 +1,1 @@
+tools/monitoring/agents-detailed.sh

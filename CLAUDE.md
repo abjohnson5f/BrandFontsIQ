@@ -1,7 +1,8 @@
 # CLAUDE.md - Critical Session Reminders
 
-**Last Updated**: June 3, 2025
+**Last Updated**: June 4, 2025
 **Critical Failures Documented**: 2
+**Major Improvements**: Real-time monitoring system active
 
 ## 🚨 CRITICAL: Parallel Agent Verification
 
@@ -102,6 +103,18 @@ pwd  # Verify correction
 pwd  # Should be in project root (CHECK THIS FIRST!)
 git worktree list  # See all active worktrees
 ls -la .claude/commands  # Verify commands available
+```
+
+## 🎯 Real-Time Monitoring Active
+
+**Monitor running in left terminal pane**
+```bash
+./monitor.sh  # Shows live agent progress
+```
+
+**Quick status in any terminal**
+```bash
+agents  # Instant status of all 3 agents
 ```
 
 ---
