@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-06-03T14:24:21.982Z",
+  "stats": {
+    "totalRows": 2135,
+    "processed": 455,
+    "identified": 455,
+    "cached": 1680,
+    "llmCalls": 65,
+    "estimatedCost": 0,
+    "actualCost": 0,
+    "errors": 0
+  },
+  "cacheStats": {
+    "entries": 455,
+    "hitRate": 0.8351648351648352,
+    "avgHits": 4.6923076923076925,
+    "memoryUsage": 465920
+  },
+  "llmStats": {
+    "totalTokens": 12600,
+    "totalCost": 0,
+    "avgTokensPerRequest": null
+  },
+  "costBreakdown": {
+    "llmCost": 0,
+    "costPerRow": 0,
+    "projectedCostFor25k": 0
+  }
+}

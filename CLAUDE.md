@@ -1,7 +1,7 @@
 # CLAUDE.md - Critical Session Reminders
 
 **Last Updated**: June 3, 2025
-**Critical Failures Documented**: 1
+**Critical Failures Documented**: 2
 
 ## 🚨 CRITICAL: Parallel Agent Verification
 
@@ -62,6 +62,24 @@ Only summarize what you can verify with evidence.
 
 - Polaris Raw Test Data: `/Users/alexjohnson/Dev Projects/Supporting Materials/Polaris Raw Test Data_CompanyID_Test.xlsx`
 - Font Analysis: `/Users/alexjohnson/Dev Projects/Supporting Materials/Font Analysis Interpretation.xlsx`
+
+## 🚨 CRITICAL: Specification Precision
+
+**NEVER use "auto-detect" in specifications**
+
+When business rules specify exact columns:
+1. Copy column names EXACTLY into specifications
+2. Use column NAMES not positions (positions vary by file)
+3. Include real examples (like Aixam dealer site)
+4. Explicitly forbid using other columns
+
+**Business Rule 7 Company Identification Columns**:
+- Website/App Title
+- URL
+- URL 2
+- App URL
+
+**Remember**: Sprint 2 Specification Failure (2025-06-03)
 
 ## 🚨 CRITICAL: Working Directory Context
 

@@ -1,0 +1,5984 @@
+{
+  "version": 1,
+  "timestamp": 1748960661902,
+  "entries": [
+    {
+      "key": "05f18ed7ae5efddcddd478870b3298dc",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: 100-permis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653350,
+      "hits": 8
+    },
+    {
+      "key": "d5704366a0124d912a17ed9a0cf1f033",
+      "result": {
+        "company": "FW Indian",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: fwindian.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653351,
+      "hits": 7
+    },
+    {
+      "key": "9690246c5374160f9c6ed493b1243067",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM ABB VSP"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653351,
+      "hits": 12
+    },
+    {
+      "key": "ae453cc642847b63771888af77f53331",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM ABC Auto Bethune"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653351,
+      "hits": 14
+    },
+    {
+      "key": "68059759898b42206dc03112cd6f7d5d",
+      "result": {
+        "company": "Acf",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: acf88.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653351,
+      "hits": 6
+    },
+    {
+      "key": "f5602f440e91ebbfc0aa84bdf347ccf6",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960653452,
+      "hits": 5
+    },
+    {
+      "key": "bc0cf51aa4e44d5370d8037e74068103",
+      "result": {
+        "company": "Allohaa",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: allohaa.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653452,
+      "hits": 10
+    },
+    {
+      "key": "8894f78ce57c5aeeff4cfd36d2172d97",
+      "result": {
+        "company": "Altho Automobile Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: altho-automobile-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653452,
+      "hits": 6
+    },
+    {
+      "key": "0a6197ca916043a35c97ad04a324079e",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960653554,
+      "hits": 4
+    },
+    {
+      "key": "85e7b3369c1fead187201eb53ce6dfde",
+      "result": {
+        "company": "Astec Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: astec-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 12
+    },
+    {
+      "key": "698fdf07572971b91c3801197556a21e",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: ace.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 5
+    },
+    {
+      "key": "494e6f4cdbec3142702b78c494bb0a18",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM ACF"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653554,
+      "hits": 4
+    },
+    {
+      "key": "9e1ef580a0377c945a74df02884a6beb",
+      "result": {
+        "company": "Bdauto",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: bdauto.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 11
+    },
+    {
+      "key": "0be1af66e5aa7fd1693da7675249c781",
+      "result": {
+        "company": "Carrosserieozanne",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: carrosserieozanne.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 8
+    },
+    {
+      "key": "c2ff4fc494d86b9bd5722595406da9fd",
+      "result": {
+        "company": "Cauvin Sans Permis Grasse",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: cauvin-sans-permis-grasse.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 6
+    },
+    {
+      "key": "5cac6b25c87089978751885b947e9a97",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: adventures.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653554,
+      "hits": 6
+    },
+    {
+      "key": "9aacc07f37ba19a0858ed814f6810255",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id1109984676"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960653657,
+      "hits": 16
+    },
+    {
+      "key": "d35b4f982e76dc317d4402f11f55a0a9",
+      "result": {
+        "company": "City Car Metropole",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: city-car-metropole.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653658,
+      "hits": 6
+    },
+    {
+      "key": "e6febe031b5bb29d04b43da165ee05bf",
+      "result": {
+        "company": "Ctsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ctsp57.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653658,
+      "hits": 8
+    },
+    {
+      "key": "8a1983ab9124791c30b3bdd3e42011fa",
+      "result": {
+        "company": "Espaceauto",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: espaceauto78.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653658,
+      "hits": 5
+    },
+    {
+      "key": "f1efb0d720819b3e93ce6e1ac40664aa",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960653759,
+      "hits": 4
+    },
+    {
+      "key": "baa6c4f3955d9ed0e333ad267014acc2",
+      "result": {
+        "company": "Aixam Arnhem",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-arnhem.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653759,
+      "hits": 4
+    },
+    {
+      "key": "4d87897c25cb843e67f5b142deed58cc",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Belgium"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653760,
+      "hits": 1
+    },
+    {
+      "key": "34c124ad7bce72fc0b980e957b29f0a0",
+      "result": {
+        "company": "Garage Lamalle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: garage-lamalle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653760,
+      "hits": 4
+    },
+    {
+      "key": "8862de31c0993abaa2d741cd6d2f9eb8",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960653861,
+      "hits": 3
+    },
+    {
+      "key": "895e3ad4208c84c76a82e8d1f6214ef6",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Germany"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653861,
+      "hits": 1
+    },
+    {
+      "key": "279206f685e5638624c6050f4025df0a",
+      "result": {
+        "company": "Aixam Deutschland",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-deutschland.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 3
+    },
+    {
+      "key": "f3cc8261a7c55e980e9b80e0f212bd4d",
+      "result": {
+        "company": "Garage Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: garage-voiture-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 15
+    },
+    {
+      "key": "e907c08829d5e3d3e1dd3955bcfca533",
+      "result": {
+        "company": "Aixam Hr",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-hr.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 1
+    },
+    {
+      "key": "1ff6baccc29a9ad6faee24a97e85d507",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Spanish"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653861,
+      "hits": 1
+    },
+    {
+      "key": "febdb5a9659407849a9798d6b34b6084",
+      "result": {
+        "company": "Aixam Mega",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-mega.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 3
+    },
+    {
+      "key": "fb02820a80b457c6eaafe57dc4131cbf",
+      "result": {
+        "company": "Glmlesandelys",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: glmlesandelys.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 8
+    },
+    {
+      "key": "14f4005b24b70a47f0794030a68c662c",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Italia "
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653861,
+      "hits": 1
+    },
+    {
+      "key": "8b4733e4193ada50501e885d807808ca",
+      "result": {
+        "company": "Aixam Mega",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-mega.it"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653861,
+      "hits": 1
+    },
+    {
+      "key": "3a9d8d1dbff6ab27a6eca48085ebdec2",
+      "result": {
+        "company": "Jaubert Auto",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: jaubert-auto.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653862,
+      "hits": 8
+    },
+    {
+      "key": "56874cf4818c7d0a6ed5776f13bed0a5",
+      "result": {
+        "company": "Lebreton Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: lebreton-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653862,
+      "hits": 8
+    },
+    {
+      "key": "28338d50d271d1188d179491d1ab463a",
+      "result": {
+        "company": "Libertycars",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: libertycars.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653862,
+      "hits": 8
+    },
+    {
+      "key": "87c9280765da7320622c7e69cca8e13c",
+      "result": {
+        "company": "Mini Auto Sud",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mini-auto-sud.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653862,
+      "hits": 8
+    },
+    {
+      "key": "886d0f40ddccb2d25f9875af52452acc",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Royal Motors Cycles"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653862,
+      "hits": 4
+    },
+    {
+      "key": "6bb07a136d6535d7b49f60b475e7848d",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Onderdelen"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960653862,
+      "hits": 2
+    },
+    {
+      "key": "286f1d19705300d231e7a56ea129bd32",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960653963,
+      "hits": 4
+    },
+    {
+      "key": "523601bec7f25800c6adcfad44424a1c",
+      "result": {
+        "company": "Minicar Center",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: minicar-center49.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960653963,
+      "hits": 8
+    },
+    {
+      "key": "ee4d14baaba1baebc848507ffb5dd08d",
+      "result": {
+        "company": "Axiampro German",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAMPro German"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960654065,
+      "hits": 1
+    },
+    {
+      "key": "d921b4d1636bda0f8882683740c4f370",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654166,
+      "hits": 1
+    },
+    {
+      "key": "ad93bb08159d63624ff1e23303dbe6df",
+      "result": {
+        "company": "Axiampro Belgium",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAMPro Belgium"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960654268,
+      "hits": 1
+    },
+    {
+      "key": "46e367ea10ca5ffa7e126491551aad2d",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654369,
+      "hits": 1
+    },
+    {
+      "key": "9d8f073b111743725eaf127655a4db33",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654369,
+      "hits": 1
+    },
+    {
+      "key": "e103c00f6df8b9c7662e8a8ec3dbbb1f",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654369,
+      "hits": 1
+    },
+    {
+      "key": "49ab4e5a74cb4c5c52796c5759563d74",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAMPro Spain"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960654370,
+      "hits": 1
+    },
+    {
+      "key": "bed6a6e00ae1323eac2e9b4cd5503d6a",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.es"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654370,
+      "hits": 1
+    },
+    {
+      "key": "0c77a756a0ec7b9cba06a5aef58b6ba6",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAMPro Greece"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960654370,
+      "hits": 1
+    },
+    {
+      "key": "a8851bd589b9434a93a89ee4da8f6308",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654471,
+      "hits": 1
+    },
+    {
+      "key": "1c939bdd488da289a24c56853437e816",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654471,
+      "hits": 1
+    },
+    {
+      "key": "d6e5c57156bbf46fb84c1194b52c07e1",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654471,
+      "hits": 1
+    },
+    {
+      "key": "f6366c25f71d098e2450f65922c9d3d7",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.no"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654471,
+      "hits": 1
+    },
+    {
+      "key": "f9b880aca72dffc2ce961f062126cdd4",
+      "result": {
+        "company": "Aixam Pro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam-pro.no"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654471,
+      "hits": 1
+    },
+    {
+      "key": "408fe01b3b66acae1cf2c3ab3baf26a8",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654573,
+      "hits": 3
+    },
+    {
+      "key": "d4fb81382f4bd474c8780d114aad6080",
+      "result": {
+        "company": "Minivoiture",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: minivoiture84.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654573,
+      "hits": 8
+    },
+    {
+      "key": "c0daa200a35c50b5f9fc1b1c234c02e8",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654673,
+      "hits": 1
+    },
+    {
+      "key": "aca15b03a2f318e4482ba2543522a60f",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654775,
+      "hits": 2
+    },
+    {
+      "key": "f0fe1dc3b1924528fb843a11dedbbced",
+      "result": {
+        "company": "Axiam Germany",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAM Germany"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960654876,
+      "hits": 1
+    },
+    {
+      "key": "ef96b4395e6ac2c2c925cfc2794e8113",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960654978,
+      "hits": 3
+    },
+    {
+      "key": "a899b7d33d4998c1b40e009f4d687d2b",
+      "result": {
+        "company": "Mlc Fr",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mlc-fr.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654978,
+      "hits": 2
+    },
+    {
+      "key": "d7d0c5c3649fd5a04c181766e018d703",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: aixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654978,
+      "hits": 1
+    },
+    {
+      "key": "5d07832ca7b5bcffd25a68bbcac7478d",
+      "result": {
+        "company": "Moovy",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: moovy.mobi"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654978,
+      "hits": 8
+    },
+    {
+      "key": "3d9fd1074e604c38cbeef35a330cad1d",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: aixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960654978,
+      "hits": 3
+    },
+    {
+      "key": "779a58eebb402c869e5df45d48d8fb82",
+      "result": {
+        "company": "Axiam Czech",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAM Czech"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655080,
+      "hits": 1
+    },
+    {
+      "key": "3a86c9ea36445613fd07857b6fbb88f4",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655181,
+      "hits": 1
+    },
+    {
+      "key": "11d3844ba80e491d469dc5ced84e3bea",
+      "result": {
+        "company": "My Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: my-vsp.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655181,
+      "hits": 4
+    },
+    {
+      "key": "266c3448bf08bee16e02b44f3732411f",
+      "result": {
+        "company": "Oise Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: oise-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655182,
+      "hits": 6
+    },
+    {
+      "key": "dcbc7ca9f93f212a5eb73b12e5d2e4ec",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655182,
+      "hits": 4
+    },
+    {
+      "key": "8a9d387937dd314abb67164449b28d80",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.fi"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655182,
+      "hits": 3
+    },
+    {
+      "key": "ee608c98cbe759ed1bc43853dee772c3",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.fi"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655182,
+      "hits": 3
+    },
+    {
+      "key": "7082d2e9d77eddf1938cf5a4b7ee5393",
+      "result": {
+        "company": "Axiam France",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAM France"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655283,
+      "hits": 1
+    },
+    {
+      "key": "476e379356631a93ea3a82b40786aba4",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655384,
+      "hits": 3
+    },
+    {
+      "key": "30312e34aa14a3f8d47e0fc081e44cfb",
+      "result": {
+        "company": "Planete Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: planete-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655385,
+      "hits": 6
+    },
+    {
+      "key": "85cfef28c222ebd55ad355bcd67bc770",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Greece"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655385,
+      "hits": 1
+    },
+    {
+      "key": "45b12c0560f44d6207941329383c94b2",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655485,
+      "hits": 6
+    },
+    {
+      "key": "7eb40fe7c8de8aed01724679e69896ae",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-64.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655486,
+      "hits": 8
+    },
+    {
+      "key": "a7c8afa71feaad0c57f455b3f156d196",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Hungary"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655486,
+      "hits": 1
+    },
+    {
+      "key": "28453b9b3d5b54530fb78ca3cc372811",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655586,
+      "hits": 1
+    },
+    {
+      "key": "b714addbdfd2f5fa82e805eb29ba2199",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Italy"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "59f9a827912c28ebff7edb13e16eacf0",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.it"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "ddabdd030f98192d6e43d18083307cef",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Netherlands"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "010d6bd44e15887eb8738929258cfb4e",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-79.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655587,
+      "hits": 6
+    },
+    {
+      "key": "a2694e1265734f34e0c183cacbe28bbc",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655587,
+      "hits": 3
+    },
+    {
+      "key": "7d6cd96a9f5b4a1fabe74541640121c3",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Norway"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "c3cb9afe2b9570a84416fe4146732f26",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.no"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "73a8bd565658484b6541ea4af74614c1",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Poland"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655587,
+      "hits": 1
+    },
+    {
+      "key": "6414a83730321a0387e1794823fa13ff",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655688,
+      "hits": 1
+    },
+    {
+      "key": "e69e3b157d92bdbcb4f5e271a8db4684",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Portugal"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655688,
+      "hits": 1
+    },
+    {
+      "key": "72612a0dd3942064d93e20adb9f7cc50",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655789,
+      "hits": 3
+    },
+    {
+      "key": "41b77e89bc60427b0d902ba2eac8e45c",
+      "result": {
+        "company": "Sans Permis Annecy",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-annecy.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655790,
+      "hits": 8
+    },
+    {
+      "key": "c8ad0437a506b839a222c42136d61728",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Romania"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655790,
+      "hits": 1
+    },
+    {
+      "key": "43a84181391b4ed722fe348eacd7152b",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655891,
+      "hits": 3
+    },
+    {
+      "key": "5dee3bbcab0c618fd474e8bcaee83eb2",
+      "result": {
+        "company": "Sans Permis Blois",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-blois.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655891,
+      "hits": 8
+    },
+    {
+      "key": "4b1db3adf9d24ed4d59f67797c23f14b",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Sweden"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655891,
+      "hits": 1
+    },
+    {
+      "key": "118cdf28fed372229c36b65edf9ab4d8",
+      "result": {
+        "company": "Sans Permis Cholet",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-cholet.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655891,
+      "hits": 6
+    },
+    {
+      "key": "b7c6c097e5db0d473720e16ac07515c3",
+      "result": {
+        "company": "Aixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixam.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655891,
+      "hits": 3
+    },
+    {
+      "key": "028be51d04c5bf7fd063088ee3dbe046",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Slovenia"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655891,
+      "hits": 1
+    },
+    {
+      "key": "b5f9940f6252fadf6d8c24a598c6320e",
+      "result": {
+        "company": "Sans Permis Marseille",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-marseille.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655891,
+      "hits": 6
+    },
+    {
+      "key": "9546b352f7555cc8e5430321a380e699",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960655992,
+      "hits": 3
+    },
+    {
+      "key": "feff2677122577b51c7358ad679620b2",
+      "result": {
+        "company": "Aixamhilversum",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixamhilversum.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 4
+    },
+    {
+      "key": "6c301dafaadcefd6921d1ec343634c80",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAMPro Sweden"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655993,
+      "hits": 1
+    },
+    {
+      "key": "cffa035e4b244b2eda61fe76555b268e",
+      "result": {
+        "company": "Aixampro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aixampro.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 1
+    },
+    {
+      "key": "8031574a775bd199ccbf06cd6af8e3a2",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Hellohaa"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655993,
+      "hits": 4
+    },
+    {
+      "key": "0c1a28fd53f5f4fe3cf46ee1737ed25a",
+      "result": {
+        "company": "Sans Permis Martinique",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-martinique.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 6
+    },
+    {
+      "key": "6819121aaa4e7a7d7eeb9ce7edc7a2fb",
+      "result": {
+        "company": "Sans Permis Puy En Velay",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-puy-en-velay.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 4
+    },
+    {
+      "key": "5fc282473ae64d9972639e1c6302a89a",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis38.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 7
+    },
+    {
+      "key": "9c4d1f73244294c7f8a54498aa9708e4",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis61.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655993,
+      "hits": 8
+    },
+    {
+      "key": "99f51b143dd80a1a66d7a3b1a40b28a4",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Altho"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960655994,
+      "hits": 4
+    },
+    {
+      "key": "c92cd0d37af6a3d6369a6081fd300dfa",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis89.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655994,
+      "hits": 6
+    },
+    {
+      "key": "c9e19279c55f86f004a57193d97fac40",
+      "result": {
+        "company": "Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sanspermis75.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655994,
+      "hits": 8
+    },
+    {
+      "key": "88ffedb3de837eeccfef45d131c2df44",
+      "result": {
+        "company": "Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sanspermis92.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655994,
+      "hits": 8
+    },
+    {
+      "key": "f151964ef983c43661a3e9558085d581",
+      "result": {
+        "company": "Aspach",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: aspach.aixam.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960655994,
+      "hits": 4
+    },
+    {
+      "key": "b559c0b673c94f33a4ff20e8efa5286a",
+      "result": {
+        "company": "Axiam Asp Center",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAM ASP Center"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960656095,
+      "hits": 4
+    },
+    {
+      "key": "de8c6a4e660197281424e6ed7603176e",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960656197,
+      "hits": 4
+    },
+    {
+      "key": "99dd681164d2e65cc3b9b554a0b41cf7",
+      "result": {
+        "company": "Thollot Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: thollot-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656197,
+      "hits": 8
+    },
+    {
+      "key": "6f12024e5ddb09b9755d2886b1c6ba8a",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: assets.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656197,
+      "hits": 3
+    },
+    {
+      "key": "5265e6df193c95e5a22b93d249107da5",
+      "result": {
+        "company": "Thomas Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: thomas-sanspermis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656197,
+      "hits": 8
+    },
+    {
+      "key": "de2555f1096d0ee8802df32554539d12",
+      "result": {
+        "company": "Vivant Mobilite",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vivant-mobilite.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656197,
+      "hits": 5
+    },
+    {
+      "key": "0bc6977b5dd229d0c3f7fca54675a3ef",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-13.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656197,
+      "hits": 6
+    },
+    {
+      "key": "b57e10477386d695043e84f32f98f55c",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-27.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 6
+    },
+    {
+      "key": "133197d39c83479e8d4b9c699e4390ec",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-65.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 11
+    },
+    {
+      "key": "dc9c3d222ca413db25974276cef83b82",
+      "result": {
+        "company": "Astec Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: astec-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 4
+    },
+    {
+      "key": "6a46cf2fc3d0b379db6bd1028b7ac52b",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: auth.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 5
+    },
+    {
+      "key": "4bcb7c1633944735fb96399c11a4b674",
+      "result": {
+        "company": "Autofalk",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: autofalk.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 6
+    },
+    {
+      "key": "c2fef41a1161b18b3a47908753ebc8ca",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-68.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 9
+    },
+    {
+      "key": "8c5ad9a5b88b1365f27ae6efce20c045",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-77.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 6
+    },
+    {
+      "key": "6831f15f415d1e8ef0080654390cb682",
+      "result": {
+        "company": "Base",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: base.godfreypontoonboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 13
+    },
+    {
+      "key": "897afcde1d8257888cf17d750539ac5b",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-78.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656198,
+      "hits": 8
+    },
+    {
+      "key": "c2ef56e0893c466eafa443136dfbb298",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-85.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 4
+    },
+    {
+      "key": "ffbce06a17000b7f50cbd9d464da444f",
+      "result": {
+        "company": "Voiture Sans Permis Cambresis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-cambresis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 8
+    },
+    {
+      "key": "db90a1d208ebc436990c1a23a8df8f78",
+      "result": {
+        "company": "Voiture Sans Permis Evreux",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-evreux.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 8
+    },
+    {
+      "key": "0c92ae57ac3877a664e1da72234ff4f7",
+      "result": {
+        "company": "Bdauto",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: bdauto.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 4
+    },
+    {
+      "key": "82d56c4b40b5997256129d74fc97b93c",
+      "result": {
+        "company": "Benningtonmarine",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: benningtonmarine.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 7
+    },
+    {
+      "key": "06bff1fb54bbcf363d27eb4fe4c874d9",
+      "result": {
+        "company": "Voiture Sans Permis Lyon",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-lyon.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 6
+    },
+    {
+      "key": "6517c9db50915659a309769d1befaba8",
+      "result": {
+        "company": "Voiture Sans Permis Strasbourg",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-strasbourg.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 9
+    },
+    {
+      "key": "be3bb81141cd0996c75aa7e0bdebd24e",
+      "result": {
+        "company": "Benningtonmarine",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: benningtonmarine.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 4
+    },
+    {
+      "key": "693308a93acbc61b99b71febb38b7cd6",
+      "result": {
+        "company": "Brookfieldindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: brookfieldindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 3
+    },
+    {
+      "key": "575a3bcc45f1f1d450f38a96c30e549e",
+      "result": {
+        "company": "Buildaboat",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: buildaboat.godfreypontoonboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 5
+    },
+    {
+      "key": "9b451dcb4ded276ba61d4307ae5c002d",
+      "result": {
+        "company": "Buildaboat",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: buildaboat.hurricaneboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 4
+    },
+    {
+      "key": "eb7c224eb54680806979d4d1c0bf26d0",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis18.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656199,
+      "hits": 4
+    },
+    {
+      "key": "32873c5a49d92a8f564afe00cb334c50",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis37.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 8
+    },
+    {
+      "key": "03586b5401c5ea1b5cfe163953e1e967",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis61.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 8
+    },
+    {
+      "key": "13aad7ae70cdf52e1cb9ad17487bfa2b",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis78.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 4
+    },
+    {
+      "key": "557b1275fbf90d10126ba1f5e86bd16c",
+      "result": {
+        "company": "Carrosserieozanne",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: carrosserieozanne.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 4
+    },
+    {
+      "key": "08ff18af7105d306f3aca2c7617d55c9",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Jean Cauvin Mobilites"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960656200,
+      "hits": 4
+    },
+    {
+      "key": "0a84879bb417161e5039b965b79ef724",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis83.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 8
+    },
+    {
+      "key": "27e836f1f0fd0907141c7f70fe1d8f5c",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis95.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 9
+    },
+    {
+      "key": "fdb2acee7020721bd87bc4baccf3a066",
+      "result": {
+        "company": "Voituressanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voituressanspermis45.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 8
+    },
+    {
+      "key": "8d680dcea9228fd1bb8c8aab8393e4e4",
+      "result": {
+        "company": "City Car Metropole",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: city-car-metropole.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 4
+    },
+    {
+      "key": "56a61387605e562bbdaf88e75d8dc6a0",
+      "result": {
+        "company": "Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vsp61.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 8
+    },
+    {
+      "key": "623d2284dbd40ae2dd615dfdb6c471d5",
+      "result": {
+        "company": "Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vsp77.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 4
+    },
+    {
+      "key": "3ffb969ecff722cc78e1da88a0136405",
+      "result": {
+        "company": "Club",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: club.benningtonmarine.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656200,
+      "hits": 5
+    },
+    {
+      "key": "0d37342477439b06da6d0e91f765cbc5",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960656302,
+      "hits": 12
+    },
+    {
+      "key": "fef4f74c8561f2fbbdca4081ffb11980",
+      "result": {
+        "company": "Https://play",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://play.google.com/store/apps/details?id=com.xkglow.slingshot"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960656403,
+      "hits": 7
+    },
+    {
+      "key": "c9d690164e08165f5b23ea75e8663bb0",
+      "result": {
+        "company": "Https://play",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://play.google.com/store/apps/details?id=com.xkglow.slingshot"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960656505,
+      "hits": 1
+    },
+    {
+      "key": "fee7d535181fedb82c28988f54b39126",
+      "result": {
+        "company": "Https://play",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://play.google.com/store/apps/details?id=com.xkglow.snowglow"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960656606,
+      "hits": 6
+    },
+    {
+      "key": "9269e7b75376f3fc64f0117f567eb1bc",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Car Trading Without a License"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960656606,
+      "hits": 4
+    },
+    {
+      "key": "db6e85a729c39359a597f5516a32129e",
+      "result": {
+        "company": "Hammerheadoffroadbuggies",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: hammerheadoffroadbuggies.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656606,
+      "hits": 12
+    },
+    {
+      "key": "831cad1844d883291471e05aee7409a9",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: dtruck.aixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656606,
+      "hits": 2
+    },
+    {
+      "key": "b342202c7adcf84c0a6cd4f14f46b198",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Auto Space 78"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960656606,
+      "hits": 4
+    },
+    {
+      "key": "8a259988640868af4f58cac0521b0838",
+      "result": {
+        "company": "Finland",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: finland.aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656606,
+      "hits": 1
+    },
+    {
+      "key": "01c49f12abe11b7fd51b36bf24e83c75",
+      "result": {
+        "company": "Finland",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: finland.aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656606,
+      "hits": 1
+    },
+    {
+      "key": "57d01f47041ab8b6ed9d39726c08cefe",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: finland.aixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656606,
+      "hits": 3
+    },
+    {
+      "key": "f6e6514adfdf28fc689609fef599e116",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: finland.aixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 3
+    },
+    {
+      "key": "d8f5dce25b7bb1c2a3386d097fed455c",
+      "result": {
+        "company": "Forum",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: forum.godfreypontoonboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 1
+    },
+    {
+      "key": "65c3b89f4109d98910869e4827482065",
+      "result": {
+        "company": "Forum",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: forum.hurricaneboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 4
+    },
+    {
+      "key": "e908ca72481eb2649847e85b996a7266",
+      "result": {
+        "company": "Klim",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: klim.co.kr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 10
+    },
+    {
+      "key": "97fee4f2df804a03436942cb0df718bb",
+      "result": {
+        "company": "Garage Lamalle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: garage-lamalle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 4
+    },
+    {
+      "key": "61093dba089f1b436753c6302f338d73",
+      "result": {
+        "company": "Polarissa",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarissa.co.za"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 6
+    },
+    {
+      "key": "35089674ccdcb07a74e7acc9c7bbd0c5",
+      "result": {
+        "company": "Dealers",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: dealers.ride509.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 1
+    },
+    {
+      "key": "83c7885738cfac67d93e805c7ef5d574",
+      "result": {
+        "company": "Heritagemotorcyclesnwa",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: heritagemotorcyclesnwa.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 8
+    },
+    {
+      "key": "ed6813415b5ca47184b5bdd4afe8769f",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM RV Car"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960656607,
+      "hits": 5
+    },
+    {
+      "key": "c1c0d6d0fe8865e4b08e136ed583f28d",
+      "result": {
+        "company": "Glmlesandelys",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: glmlesandelys.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 4
+    },
+    {
+      "key": "0922d03137b3ad7b6c83cd093e46e6c7",
+      "result": {
+        "company": "Godfreypontoonboats",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: godfreypontoonboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 11
+    },
+    {
+      "key": "cfd23a9f2a93baddd81206bd4ca29d38",
+      "result": {
+        "company": "Goupil Ev",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: goupil-ev.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656607,
+      "hits": 4
+    },
+    {
+      "key": "b9f41fd663358c12576017368f4157c0",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960656708,
+      "hits": 4
+    },
+    {
+      "key": "d3dec8cfaeb5beb64329508e392c8bff",
+      "result": {
+        "company": "Greece",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: greece.myaixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656708,
+      "hits": 1
+    },
+    {
+      "key": "b15aa3bba15e8c26c3db3e21eef0a784",
+      "result": {
+        "company": "Greece",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: greece.myaixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656708,
+      "hits": 4
+    },
+    {
+      "key": "db54e9d248f8d242122b065a9c16f552",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960656810,
+      "hits": 5
+    },
+    {
+      "key": "d9cad513d4e1be279b724968fce09872",
+      "result": {
+        "company": "Indianmotorcyclesofwichita",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclesofwichita.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656810,
+      "hits": 5
+    },
+    {
+      "key": "1730b03eae3b1ef29d4ee2dc1548f0b5",
+      "result": {
+        "company": "Hammerheadoffroad",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: hammerheadoffroad.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656810,
+      "hits": 6
+    },
+    {
+      "key": "1bf63260f7739a00cd58ade44dea9422",
+      "result": {
+        "company": "Sincityindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sincityindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656810,
+      "hits": 8
+    },
+    {
+      "key": "372f181d7c06603774e94437f4f8787a",
+      "result": {
+        "company": "Willamettevalleyindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: willamettevalleyindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656810,
+      "hits": 16
+    },
+    {
+      "key": "b9cd0baf74571e8a2905579db8d7a7b3",
+      "result": {
+        "company": "Shoppolaris",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: shoppolaris.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656810,
+      "hits": 12
+    },
+    {
+      "key": "88eed65813658ff079f144b952fb8885",
+      "result": {
+        "company": "Hoppegarten",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: hoppegarten.aixam-haendler.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656811,
+      "hits": 7
+    },
+    {
+      "key": "3b52fb5330ecd553f241eb34e33faac3",
+      "result": {
+        "company": "Kirchberg",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: kirchberg.aixam-haendler.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656811,
+      "hits": 7
+    },
+    {
+      "key": "9378661d487d92ad4d24c540f902dc60",
+      "result": {
+        "company": "Murnau",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: murnau.aixam-haendler.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656811,
+      "hits": 9
+    },
+    {
+      "key": "efb57d9c982b779f5887b807982eb5eb",
+      "result": {
+        "company": "Hurricaneboats",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: hurricaneboats.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656811,
+      "hits": 5
+    },
+    {
+      "key": "ce9736a6b7d80a202d1990415a77e1fd",
+      "result": {
+        "company": "Wsiindustries",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: wsiindustries.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960656811,
+      "hits": 33
+    },
+    {
+      "key": "3345f9ea11c0750a9d7951efe4afe39c",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id493561742"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960656914,
+      "hits": 12
+    },
+    {
+      "key": "eff9ae63f70303dfe3fcb8cc5cd7384f",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657015,
+      "hits": 1
+    },
+    {
+      "key": "d652624afdf38b6a5da3e3f04a2d03e5",
+      "result": {
+        "company": "Indianangers",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianangers.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657016,
+      "hits": 4
+    },
+    {
+      "key": "081c4d7a74b12d9d32c055c93bacf325",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657117,
+      "hits": 3
+    },
+    {
+      "key": "cd60760f688030ec5f40c5ea714827e2",
+      "result": {
+        "company": "Indianmoto",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmoto.it"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657117,
+      "hits": 3
+    },
+    {
+      "key": "860eca5416846e1712f701b288333831",
+      "result": {
+        "company": "Indianmotorcycle Edinburgh",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle-edinburgh.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657117,
+      "hits": 3
+    },
+    {
+      "key": "5f5941673c8d0a7cde39e4d24e53bdb1",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657219,
+      "hits": 1
+    },
+    {
+      "key": "5faa3cbb58c2a8b211f01c35d067b7d3",
+      "result": {
+        "company": "Indianmotorcycle London",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle-london.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657219,
+      "hits": 4
+    },
+    {
+      "key": "b2c9f8cb7408243383282918542d1c34",
+      "result": {
+        "company": "Indianmotorcycle Sa",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle-sa.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657219,
+      "hits": 3
+    },
+    {
+      "key": "79d7cfd1288aa6793c54d879fcd210dc",
+      "result": {
+        "company": "Indianmotorcycle Sheffield",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle-sheffield.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657219,
+      "hits": 2
+    },
+    {
+      "key": "58bae243220e682ba1e323ac73d66df8",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657320,
+      "hits": 3
+    },
+    {
+      "key": "933ad4876a9a520eee0c0fb1175c63e8",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657421,
+      "hits": 2
+    },
+    {
+      "key": "8fd5803d01f13b61b7112a4e907eb458",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657522,
+      "hits": 3
+    },
+    {
+      "key": "c36b30a60279e4c2d77fe6b54274f1e0",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657623,
+      "hits": 2
+    },
+    {
+      "key": "1e615334f68f5ce0008701eb1cc13ac7",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.cn"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657623,
+      "hits": 1
+    },
+    {
+      "key": "21bc5c2a46f491fdb5ca02ebdd763a5a",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.cn"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 2
+    },
+    {
+      "key": "63258d91dbc7a5e47d229d0b168f063e",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.co.jp"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 3
+    },
+    {
+      "key": "fa3b895755191c8e6a9f78eb594c8f3c",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 3
+    },
+    {
+      "key": "cbb9d8337767bd8fa9f63ef31119ed4b",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.co.za"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 3
+    },
+    {
+      "key": "866f344c26381a7f54ffdb699f4b088f",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 1
+    },
+    {
+      "key": "c7c26a1af605037eacf30f97e23bbcf5",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 8
+    },
+    {
+      "key": "3e31b331fd487dd5ec2e657698e001d0",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 3
+    },
+    {
+      "key": "c1644a09f7f837df6e374afd22abef3b",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com.my"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657624,
+      "hits": 2
+    },
+    {
+      "key": "63c035f24a36503159ae4a0cb5b8d430",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com.ph"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657625,
+      "hits": 3
+    },
+    {
+      "key": "1104d8fed61a9e78a5266317da863364",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com.tr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657625,
+      "hits": 3
+    },
+    {
+      "key": "9c9128e9fd622da3fbb29fbee3344732",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.com.tw"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657625,
+      "hits": 4
+    },
+    {
+      "key": "4778ed8c3175dccc7183dd97b7049ce3",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657625,
+      "hits": 3
+    },
+    {
+      "key": "64e6ad7a2a1858c19f722dc49cdcfbfb",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.dk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657625,
+      "hits": 2
+    },
+    {
+      "key": "399c879496046b5ef4aa4db1d427fb91",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657726,
+      "hits": 2
+    },
+    {
+      "key": "e239f4e6070ebfdf076ba0dca41b0e58",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.es"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657726,
+      "hits": 3
+    },
+    {
+      "key": "b66d46873d61c7667edd08926f0dd038",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.fi"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657726,
+      "hits": 5
+    },
+    {
+      "key": "ec5f831258f40261fcc98088d100d5ff",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657726,
+      "hits": 3
+    },
+    {
+      "key": "9f5d80706c221e67e0217b18b653855d",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657828,
+      "hits": 2
+    },
+    {
+      "key": "910fb24723a4759cd764d185f82242a5",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960657929,
+      "hits": 3
+    },
+    {
+      "key": "0ce2d0f0f08f614d5e5d7a25ed333cf8",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.in"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960657930,
+      "hits": 3
+    },
+    {
+      "key": "da158a36d6044e44b9a37f8dfd24fd74",
+      "result": {
+        "company": "Klim Russia",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: Klim Russia"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960658031,
+      "hits": 2
+    },
+    {
+      "key": "299ca78f11e6e13fe484c5502e3952c1",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658132,
+      "hits": 8
+    },
+    {
+      "key": "ed9765c35cb13c7032d0159d040d2987",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658233,
+      "hits": 3
+    },
+    {
+      "key": "85ca068c05f5e1a48d0d48d808d0385c",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658334,
+      "hits": 3
+    },
+    {
+      "key": "52dcc1257d02ffe9ca1811e4953a6543",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658435,
+      "hits": 1
+    },
+    {
+      "key": "0833d6357df5dfad164d3b631cf6d09e",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658536,
+      "hits": 3
+    },
+    {
+      "key": "f881a1c13f33d979e198fe6d149d8aae",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658637,
+      "hits": 3
+    },
+    {
+      "key": "04146d34630b6388e25baa8ffa5eeefc",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.no"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658638,
+      "hits": 3
+    },
+    {
+      "key": "caea49199d5f35b2712e312c5263e50f",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658739,
+      "hits": 3
+    },
+    {
+      "key": "a775388536742daf4dbcd9fe4857324e",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658840,
+      "hits": 3
+    },
+    {
+      "key": "024323982f746685d99c2601bfc61982",
+      "result": {
+        "company": "Indianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycle.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658840,
+      "hits": 5
+    },
+    {
+      "key": "4b1ca0e3ecb3a4c4788a22711540c626",
+      "result": {
+        "company": "Indianmotorcyclealbury",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclealbury.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658840,
+      "hits": 2
+    },
+    {
+      "key": "613975c98a31ee948876468689f3367b",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960658941,
+      "hits": 3
+    },
+    {
+      "key": "1228bb1ef384860c802973d701dfcb9a",
+      "result": {
+        "company": "Indianmotorcycleballarat",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleballarat.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658941,
+      "hits": 2
+    },
+    {
+      "key": "f9c6489b131168df90d4f868659fd492",
+      "result": {
+        "company": "Indianmotorcyclebenelux",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclebenelux.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658941,
+      "hits": 3
+    },
+    {
+      "key": "5126c143f9eef05cf54d57ecbd1d8eed",
+      "result": {
+        "company": "Indianmotorcyclebh",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclebh.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658941,
+      "hits": 2
+    },
+    {
+      "key": "7baf3e87c22615b807facf08e3d12d9f",
+      "result": {
+        "company": "Indianmotorcyclebrasil",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclebrasil.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658941,
+      "hits": 1
+    },
+    {
+      "key": "18dd7054b12cb40b05be7014ddd9aeb7",
+      "result": {
+        "company": "Indianmotorcyclecairns",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclecairns.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 2
+    },
+    {
+      "key": "826cb2c60c772475fcd0642b334ef2ca",
+      "result": {
+        "company": "Indianmotorcycleconcord",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleconcord.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 3
+    },
+    {
+      "key": "671f6a81ba0e6c7e4fd6ccc4f476353c",
+      "result": {
+        "company": "Indianmotorcyclecyprus",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclecyprus.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 3
+    },
+    {
+      "key": "9b1fd443b5973376362686cae33ad8fd",
+      "result": {
+        "company": "Indianmotorcycledaytonabeach",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycledaytonabeach.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 3
+    },
+    {
+      "key": "6063a6eb3546ad1ac646ff3d4c99c972",
+      "result": {
+        "company": "Indianmotorcycleegypt",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleegypt.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 2
+    },
+    {
+      "key": "7146b32c5cdfd59ecb35112b83744beb",
+      "result": {
+        "company": "Indianmotorcyclekuwait",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclekuwait.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 3
+    },
+    {
+      "key": "34a4427998d93df5db9867f8f4106db8",
+      "result": {
+        "company": "Indianmotorcyclelebanon",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclelebanon.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 2
+    },
+    {
+      "key": "c730fbeeff6e28b37afee37671229328",
+      "result": {
+        "company": "Indianmotorcyclelexington",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclelexington.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658942,
+      "hits": 15
+    },
+    {
+      "key": "2fd2f50e970e98233eb9f4cf4973a977",
+      "result": {
+        "company": "Indianmotorcyclemandurah",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclemandurah.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 2
+    },
+    {
+      "key": "5e3f47d9e8939dac8fe68d074743f0b6",
+      "result": {
+        "company": "Indianmotorcycleofcalgary",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleofcalgary.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 6
+    },
+    {
+      "key": "2f1701cacb2b726ba6b97c160650ad15",
+      "result": {
+        "company": "Indianmotorcycleofmineola",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleofmineola.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 7
+    },
+    {
+      "key": "ce05ef9d04c0b0ae036c8823ef32cc2b",
+      "result": {
+        "company": "Indianmotorcycleoman",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleoman.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 2
+    },
+    {
+      "key": "1f7d27e05662ebbbaa410bcc5c97f92c",
+      "result": {
+        "company": "Indianmotorcycleorangecounty",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleorangecounty.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 7
+    },
+    {
+      "key": "c90732443dfdba0bba8aa4941306037c",
+      "result": {
+        "company": "Indianmotorcyclepeoria",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclepeoria.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 5
+    },
+    {
+      "key": "eb12c1f611b68fd487505f8f5e1b1049",
+      "result": {
+        "company": "Indianmotorcycleqatar",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleqatar.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658943,
+      "hits": 3
+    },
+    {
+      "key": "0d05db27be61ba4cb1895799e722cab1",
+      "result": {
+        "company": "Indianmotorcycleredlands",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycleredlands.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 16
+    },
+    {
+      "key": "ac3c6b593824257b590db94a9d184765",
+      "result": {
+        "company": "Indianmotorcycles",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycles.co.nz"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 2
+    },
+    {
+      "key": "8ab9d43160de145034b6640497d12e2d",
+      "result": {
+        "company": "Indianmotorcyclesofedmonton",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclesofedmonton.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 6
+    },
+    {
+      "key": "51de427d7391bc6bb4e605e103d42386",
+      "result": {
+        "company": "Indianmotorcyclesofoklahoma",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclesofoklahoma.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 8
+    },
+    {
+      "key": "46dc74a28f62b0f9ef04a802e5c65880",
+      "result": {
+        "company": "Indianmotorcyclestpaul",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclestpaul.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 6
+    },
+    {
+      "key": "b95ac2531a0eab34f00203cf0cc31426",
+      "result": {
+        "company": "Indianmotorcyclesturgis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclesturgis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658944,
+      "hits": 7
+    },
+    {
+      "key": "d817bde3177b5de6087df38679966236",
+      "result": {
+        "company": "Indianmotorcycletucson",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycletucson.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 5
+    },
+    {
+      "key": "c41b47690bb2461c579f2df3d3253712",
+      "result": {
+        "company": "Indianmotorcycletunisie",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcycletunisie.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 2
+    },
+    {
+      "key": "c9a30e4bc1def500a22d5f3aa90474b6",
+      "result": {
+        "company": "Indianmotorcyclewangara",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianmotorcyclewangara.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 2
+    },
+    {
+      "key": "dd15402911dde02f5661a3c10046c7a6",
+      "result": {
+        "company": "Indianofneworleans",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianofneworleans.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 3
+    },
+    {
+      "key": "cfc25ccaba89ee59002ddfbe710998f9",
+      "result": {
+        "company": "Indianoftoledo",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianoftoledo.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 4
+    },
+    {
+      "key": "f59c835eeed7df319d90e91987fef7bb",
+      "result": {
+        "company": "Indianpoland",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indianpoland.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 3
+    },
+    {
+      "key": "773687eb2f29b3590e460775e6a9ce60",
+      "result": {
+        "company": "Indiapolaris",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: indiapolaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 10
+    },
+    {
+      "key": "c2680246b07f4950efcf8bbc29bc981a",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: instructions.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 6
+    },
+    {
+      "key": "d8ecb27863211de80c65f83ba476dfb0",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: ir.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960658945,
+      "hits": 13
+    },
+    {
+      "key": "2b4ec96c196169e31ddad93079acacbe",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Jaubert Auto Loisirs"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960658945,
+      "hits": 5
+    },
+    {
+      "key": "09fb0f24eafd516653fac3509f6389b9",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659047,
+      "hits": 1
+    },
+    {
+      "key": "7ab0b50ae0175bf77b99d401fa54ca34",
+      "result": {
+        "company": "Kolpin",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: kolpin.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659048,
+      "hits": 7
+    },
+    {
+      "key": "db4245df0ef7ffec60601fab51be8dec",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659148,
+      "hits": 6
+    },
+    {
+      "key": "02c49539cb7e10cde5a3a18153210c77",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: kraken.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659149,
+      "hits": 1
+    },
+    {
+      "key": "b7c2f18be0c2f5ee4d6969c0594ff4da",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Garage Lebreton"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659149,
+      "hits": 4
+    },
+    {
+      "key": "b1a3aef0d9c6357b5117552aeff7f583",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Liberty Cars"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659149,
+      "hits": 4
+    },
+    {
+      "key": "40d2ddacf283e2a9c73134bb9a52b1a5",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659249,
+      "hits": 3
+    },
+    {
+      "key": "ea9ab286b46a11835a00de4709b6dbc7",
+      "result": {
+        "company": "Mega Fahrzeuge",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mega-fahrzeuge.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659250,
+      "hits": 1
+    },
+    {
+      "key": "031737cbcf9fdd1dde25fcec4eb6c730",
+      "result": {
+        "company": "Mega Mopedbilar",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mega-mopedbilar.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659250,
+      "hits": 1
+    },
+    {
+      "key": "4e17b5a807b0798203552279c784fdbc",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659350,
+      "hits": 1
+    },
+    {
+      "key": "fcccd9ff8f5a50a55684cb9e29c1edaa",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659452,
+      "hits": 1
+    },
+    {
+      "key": "89d592184fbd686acd0b6d85836d23f4",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659553,
+      "hits": 1
+    },
+    {
+      "key": "5f6bdd0e2fa0feb3a39aa413ca2fff74",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659654,
+      "hits": 1
+    },
+    {
+      "key": "85d487f90e71fc5ec081d6e4b06ec0e9",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: military.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659654,
+      "hits": 2
+    },
+    {
+      "key": "9a265cdf050a51938a06626311168e09",
+      "result": {
+        "company": "Mini Auto Sud",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mini-auto-sud.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659655,
+      "hits": 4
+    },
+    {
+      "key": "595b46ccd2698c3200a9494a7c9d648f",
+      "result": {
+        "company": "Minicar Center",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: minicar-center49.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659655,
+      "hits": 4
+    },
+    {
+      "key": "6b914a6582936a67355824072f808c35",
+      "result": {
+        "company": "Minicarviterbo",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: minicarviterbo.it"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659655,
+      "hits": 5
+    },
+    {
+      "key": "3e7803952be83ca3bac0c8e54a38d951",
+      "result": {
+        "company": "Minivoiture",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: minivoiture84.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659655,
+      "hits": 4
+    },
+    {
+      "key": "b8201c6f4f70c2f4f1dfffd724889b36",
+      "result": {
+        "company": "Missioncityindian",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: missioncityindian.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659655,
+      "hits": 9
+    },
+    {
+      "key": "5b7451c42d2c96384b233465fadd8302",
+      "result": {
+        "company": "Mlc Fr",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: mlc-fr.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659656,
+      "hits": 4
+    },
+    {
+      "key": "72024e4505e897501ed9d32c941bfcb5",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Moovy"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659656,
+      "hits": 4
+    },
+    {
+      "key": "38ac5f5d14865ffc8e8ce08a41448ad5",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960659756,
+      "hits": 3
+    },
+    {
+      "key": "0660a31ac5c4135aad78a48fa6e1ea8c",
+      "result": {
+        "company": "Musiccityindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: musiccityindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659756,
+      "hits": 3
+    },
+    {
+      "key": "e18168da769cf229f45ef0e105c62ce1",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM My VSP La Rochelle"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659756,
+      "hits": 4
+    },
+    {
+      "key": "ccfb205c5ec14d842e7670de0f8b0381",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 1
+    },
+    {
+      "key": "905a325337a44cb8fbe740cdcac8fe41",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 4
+    },
+    {
+      "key": "1fbb391d11a827d69d879b6c12df0a45",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.es"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 1
+    },
+    {
+      "key": "21580b038b5799c3122dad376f695fcc",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.es"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 4
+    },
+    {
+      "key": "5a69c6914510e155e94d5505f9b1e13a",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 2
+    },
+    {
+      "key": "1a63364695b8362d05aef7d546b0f637",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.nl"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 1
+    },
+    {
+      "key": "0620f99b9e6507e58be81f00f4cd54fb",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 1
+    },
+    {
+      "key": "b2abfedd66908f2ae3a0b348ee89a0ce",
+      "result": {
+        "company": "Myaixam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: myaixam.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659757,
+      "hits": 4
+    },
+    {
+      "key": "d9c86b31065aad4983821c141cc7ea61",
+      "result": {
+        "company": "Https://play",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://play.google.com/store/apps/details?id=net.weathernation.mobile.indianrides"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960659858,
+      "hits": 12
+    },
+    {
+      "key": "49af91b51d9e6e01c47d0cab0ae54d8f",
+      "result": {
+        "company": "Https://play",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://play.google.com/store/apps/details?id=net.weathernation.mobile.orvtrails"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960659960,
+      "hits": 12
+    },
+    {
+      "key": "1797e56f6d33291dde5f5d9e55ee1eb7",
+      "result": {
+        "company": "Niederaula",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: niederaula.aixam.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659960,
+      "hits": 4
+    },
+    {
+      "key": "365201c144de48bcef8118aaed537b43",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM OISE"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659960,
+      "hits": 5
+    },
+    {
+      "key": "6304c7bc63f48b1c382075275e645472",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Planet Without a Permit"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960659961,
+      "hits": 4
+    },
+    {
+      "key": "369fdc5bdf60ecd16bd23e30005eb19c",
+      "result": {
+        "company": "Plm",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: plm.klim.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659961,
+      "hits": 1
+    },
+    {
+      "key": "5444a1ff52fbf65e115ab7beb229dcda",
+      "result": {
+        "company": "Polaquad",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaquad.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659961,
+      "hits": 2
+    },
+    {
+      "key": "3a8d7ad79cbc0c8be904acd6a17059f7",
+      "result": {
+        "company": "Polaris 4dirt",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-4dirt.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659961,
+      "hits": 5
+    },
+    {
+      "key": "babf6ab0064708b13259cc705db91b58",
+      "result": {
+        "company": "Polaris Agricar",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-agricar.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659961,
+      "hits": 5
+    },
+    {
+      "key": "4a9132845ea1baacdbebd5b46119a0c9",
+      "result": {
+        "company": "Polaris Banbury",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-banbury.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659961,
+      "hits": 5
+    },
+    {
+      "key": "e35a103e402c610c28152134ad6f821d",
+      "result": {
+        "company": "Polaris Brianrobinson",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-brianrobinson.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "d6219c11787effe6feec6581ad2e85c5",
+      "result": {
+        "company": "Polaris Bromyard",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-bromyard.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "7c5ca4219e4f808f8c251760f0576266",
+      "result": {
+        "company": "Polaris China",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-china.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 3
+    },
+    {
+      "key": "e5d1347317ebd8fc32a06ac1ab74b0d6",
+      "result": {
+        "company": "Polaris Cornishtractors",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-cornishtractors.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "0077986ccc3e4b1d6954dc9e2d8f6f6c",
+      "result": {
+        "company": "Polaris Derbyshirequads",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-derbyshirequads.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "bfe96af0d042dde08faa7855aecbe66d",
+      "result": {
+        "company": "Polaris Devon",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-devon.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "3075c3a423466b7c1e7fbd408d382574",
+      "result": {
+        "company": "Polaris Glamorgan",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-glamorgan.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "8b32e579188f7d40374a1f3d39893302",
+      "result": {
+        "company": "Polaris Lebanon",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-lebanon.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "0b56208cf6a2d7bea6eeadb6552ac9e1",
+      "result": {
+        "company": "Polaris Madrid",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-madrid.es"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "f44c0fbf40b3ead6013c8e7b86b199f8",
+      "result": {
+        "company": "Polaris Newtonabbot",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-newtonabbot.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "f635f6ee4fa1b8db605cce368284bc29",
+      "result": {
+        "company": "Polaris Patersonatv",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-patersonatv.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "4ab2e2dfafe497d93cab5c1f8bf8c16c",
+      "result": {
+        "company": "Polaris Penrith",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-penrith.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "8a9ffb51ad28428a3d19b4fb686221fa",
+      "result": {
+        "company": "Polaris Polaquad",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-polaquad.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 5
+    },
+    {
+      "key": "63858d5bc0b22cf1bf9d22083de15250",
+      "result": {
+        "company": "Polaris Pwllheli",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-pwllheli.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659962,
+      "hits": 6
+    },
+    {
+      "key": "c8668f539f0fd4f89d54ad35a671516e",
+      "result": {
+        "company": "Polaris Raffertynewman",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-raffertynewman.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "730381c1307dbe0eb193d5efd9790aa4",
+      "result": {
+        "company": "Polaris Reivergarage",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-reivergarage.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "91a9691525530bec2c0d58608c80a9f6",
+      "result": {
+        "company": "Polaris Rhbunner",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-rhbunner.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "2863e12a58ca07e9b6a446e2d07fafbd",
+      "result": {
+        "company": "Polaris Rvam",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-rvam.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "74dc08bc598c1e9b049795a9ecb092e1",
+      "result": {
+        "company": "Polaris Sa",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-sa.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 7
+    },
+    {
+      "key": "124e87f31f2328e456dff0d4eef82584",
+      "result": {
+        "company": "Polaris Spain",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-spain.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 6
+    },
+    {
+      "key": "72ee81e8c0410cd4175f4915acfb428f",
+      "result": {
+        "company": "Polaris Taunton",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-taunton.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "c487e326b013bc6c31e4319aa219da9e",
+      "result": {
+        "company": "Polaris Trailers",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-trailers.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 11
+    },
+    {
+      "key": "af90855f3d507f088c4e7440862ca8db",
+      "result": {
+        "company": "Polaris Truro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris-truro.co.uk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960659963,
+      "hits": 5
+    },
+    {
+      "key": "e37afc6ec8acd1389a6761184327c1d1",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660065,
+      "hits": 5
+    },
+    {
+      "key": "994b115693e8f3100bac20d255049339",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660065,
+      "hits": 5
+    },
+    {
+      "key": "977f281c3c52c973aa0842a3a46fb0cf",
+      "result": {
+        "company": "Polaris",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris.dk"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660065,
+      "hits": 10
+    },
+    {
+      "key": "a4930cfea3da9385710e606ce0c5b2f1",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660166,
+      "hits": 6
+    },
+    {
+      "key": "15bec5f9f4a89436b25c09eb0a6a6288",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660267,
+      "hits": 6
+    },
+    {
+      "key": "3c04b6c65b11cbe212a36f7002e5d832",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660369,
+      "hits": 7
+    },
+    {
+      "key": "8120dda6f37d1d572a284b2246779017",
+      "result": {
+        "company": "Polaris",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaris.mitvas.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660369,
+      "hits": 7
+    },
+    {
+      "key": "1158f800440dbef6f95d73a80169c664",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660471,
+      "hits": 9
+    },
+    {
+      "key": "ff46130f681cd08883a2cdb54d8b0a35",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id493558794"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960660572,
+      "hits": 12
+    },
+    {
+      "key": "c8ae3243a8fa6bbc81470fa09c8b3090",
+      "result": {
+        "company": "Polarisatv",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisatv.fi"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660572,
+      "hits": 9
+    },
+    {
+      "key": "301299d7a087a6d668e0471fd08de2d2",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660674,
+      "hits": 5
+    },
+    {
+      "key": "8a70f635f2f4741f734ab805be06670c",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660775,
+      "hits": 9
+    },
+    {
+      "key": "0eddde8344bf0eae6f707d761985bca8",
+      "result": {
+        "company": "Polarisatvuae",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisatvuae.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660775,
+      "hits": 6
+    },
+    {
+      "key": "2c07a6de4ef568673b3c152731e25fa7",
+      "result": {
+        "company": "Polarisaustralia",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisaustralia.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660775,
+      "hits": 5
+    },
+    {
+      "key": "795a236fe414dc3cc205e059143eabce",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660876,
+      "hits": 7
+    },
+    {
+      "key": "7c51d86b42c437076e4285d7ded9d0b4",
+      "result": {
+        "company": "Polarisbritain",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisbritain.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660877,
+      "hits": 6
+    },
+    {
+      "key": "867579fabbf061b45dbc19642159d95f",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960660978,
+      "hits": 7
+    },
+    {
+      "key": "7bf80bc887a21f0507ea7b23c9b86b04",
+      "result": {
+        "company": "Polarisdobrasil",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisdobrasil.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660978,
+      "hits": 7
+    },
+    {
+      "key": "1d1077ec52edb635d244b3f6f4af9d11",
+      "result": {
+        "company": "Polarisfrance",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisfrance.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660978,
+      "hits": 6
+    },
+    {
+      "key": "fbb41fafad772e0684bc985fe06a0c7f",
+      "result": {
+        "company": "Polarisgermany",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisgermany.de"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960660978,
+      "hits": 6
+    },
+    {
+      "key": "0031e7f34537ad4e470753ce6e4b9c3b",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960661080,
+      "hits": 9
+    },
+    {
+      "key": "6261ae1fc62f69348a0546ad44f8b8eb",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960661181,
+      "hits": 1
+    },
+    {
+      "key": "27a7daf43eff9c775bd77d10155647de",
+      "result": {
+        "company": "Polarisindustries",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisindustries.no"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661181,
+      "hits": 10
+    },
+    {
+      "key": "03c2a55cd4e590720856c019eab5e695",
+      "result": {
+        "company": "Polarisiraq",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisiraq.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 6
+    },
+    {
+      "key": "1913c4edec4afb610f000d3834e58046",
+      "result": {
+        "company": "Polarisireland",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisireland.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 6
+    },
+    {
+      "key": "485e6dac00b7cab7511813b06790239b",
+      "result": {
+        "company": "Polariskenya",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polariskenya.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 6
+    },
+    {
+      "key": "346d7367d6cc28f88e9e2f6d8ba58f90",
+      "result": {
+        "company": "Polariskuwait",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polariskuwait.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 6
+    },
+    {
+      "key": "251cb84021dfff4aed343535933ce763",
+      "result": {
+        "company": "Polarislabs",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarislabs.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 3
+    },
+    {
+      "key": "4a7a86f459a3b5cbb8b01be02ebeb489",
+      "result": {
+        "company": "Polarislatinamerica",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarislatinamerica.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661182,
+      "hits": 8
+    },
+    {
+      "key": "458b6cab8d2eedd8453f57ac4ca049e9",
+      "result": {
+        "company": "Polarismexico",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarismexico.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 7
+    },
+    {
+      "key": "256098d5d2b227ecd6ca61becd0af384",
+      "result": {
+        "company": "Polarismonterrey",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarismonterrey.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 7
+    },
+    {
+      "key": "1e459d17f97718192e24926d9785647b",
+      "result": {
+        "company": "Polarisnewzealand",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisnewzealand.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 5
+    },
+    {
+      "key": "2d4068954469e14877b82f1ea1f54c15",
+      "result": {
+        "company": "Polarisoman",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisoman.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 5
+    },
+    {
+      "key": "9d24369ce657263ffa26316188e23d70",
+      "result": {
+        "company": "Polarispilbara",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarispilbara.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 3
+    },
+    {
+      "key": "31054f59b0d8626d8fc63373395ae2d8",
+      "result": {
+        "company": "Polarisportugal",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisportugal.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 9
+    },
+    {
+      "key": "726cf4ca86450e5714ddf895f771e9b1",
+      "result": {
+        "company": "Polarispower",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarispower.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 5
+    },
+    {
+      "key": "d1058b05f42d2d694eb1a1aa4c6ff000",
+      "result": {
+        "company": "Polarisqatar",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisqatar.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 6
+    },
+    {
+      "key": "1e050bae639896d212e01d9de14a3cc1",
+      "result": {
+        "company": "Polarisqueretaro",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisqueretaro.mx"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 7
+    },
+    {
+      "key": "5332136bc12ea7138a4951cb87b41999",
+      "result": {
+        "company": "Polarisracing",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarisracing.se"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 7
+    },
+    {
+      "key": "97a35724532747c9b922cb09568afcf2",
+      "result": {
+        "company": "Polarissales",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarissales.com.au"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661183,
+      "hits": 5
+    },
+    {
+      "key": "40ef82f02a73eb05d47a94950f4d8bf4",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960661285,
+      "hits": 6
+    },
+    {
+      "key": "2fa45776279f160c0ef246b78f85ab82",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: Polaris Slingshot UK"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661285,
+      "hits": 1
+    },
+    {
+      "key": "a0d28ffae3a830cc49fe0648f377b085",
+      "result": {
+        "company": "Polaris Digital Division",
+        "parentCompany": "Polaris Inc",
+        "confidence": 90,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960661386,
+      "hits": 3
+    },
+    {
+      "key": "78e1dee9521b03e3d379aa1fd53323e1",
+      "result": {
+        "company": "Polarissuppliers.portal",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarissuppliers.portal.covisint.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 9
+    },
+    {
+      "key": "9f533cd5bb1634ed74fc4a038c93f58f",
+      "result": {
+        "company": "Polarissverige",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polarissverige.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 9
+    },
+    {
+      "key": "c87f32e36f8bd1c0b8d5b0ce9ca670d8",
+      "result": {
+        "company": "Polaristrnc",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaristrnc.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 8
+    },
+    {
+      "key": "1d7f67099fa87084dc9dce06cc37cdfc",
+      "result": {
+        "company": "Polaristunisie",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaristunisie.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 5
+    },
+    {
+      "key": "d15019bb5a1ec714d48a9c77edec9f14",
+      "result": {
+        "company": "Polaristurkiye",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polaristurkiye.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 6
+    },
+    {
+      "key": "463f32ae1113329235fcd5ad06815ba3",
+      "result": {
+        "company": "Polariswestyellowstone",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: polariswestyellowstone.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 9
+    },
+    {
+      "key": "a1657d71c9cae3e263ed1f7b4b521410",
+      "result": {
+        "company": "Portal",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: portal.klim.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 1
+    },
+    {
+      "key": "1932a08f1330881ebea88823e5704637",
+      "result": {
+        "company": "Portugal",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: portugal.aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 1
+    },
+    {
+      "key": "6fa81199611e9ae3c1bcd915aa860641",
+      "result": {
+        "company": "Portugal",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: portugal.aixam-pro.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661387,
+      "hits": 1
+    },
+    {
+      "key": "f1f04bc7115ad2d12393ffe406eeaba9",
+      "result": {
+        "company": "Unknown Company",
+        "confidence": 50,
+        "evidence": [
+          "Mock identification based on keywords"
+        ],
+        "method": "llm_resolution"
+      },
+      "timestamp": 1748960661489,
+      "hits": 2
+    },
+    {
+      "key": "f87d60f9ae27bcefc6ce26937223dc4e",
+      "result": {
+        "company": "Proarmor",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: proarmor.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661489,
+      "hits": 6
+    },
+    {
+      "key": "b2e7c2746a16e2cf32bcfd0876b9bb8c",
+      "result": {
+        "company": "Protectmypolaris",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: protectmypolaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661489,
+      "hits": 1
+    },
+    {
+      "key": "8d3f293122b79d3f0467fbb6ccabeb24",
+      "result": {
+        "company": "Ride",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ride509.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661489,
+      "hits": 3
+    },
+    {
+      "key": "51515b9acbca7f1bcd4150b477eb7bd0",
+      "result": {
+        "company": "Ridecommand",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ridecommand.indianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 4
+    },
+    {
+      "key": "6647b152d189777a1c507425697d3ebf",
+      "result": {
+        "company": "Ridecommand",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ridecommand.indianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 1
+    },
+    {
+      "key": "a656ae1ae4f74af08cd25125bc7d76eb",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: ridecommand.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 7
+    },
+    {
+      "key": "bd5d80bcfe25fd618862d5568499fa41",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: ridecommand.slingshot.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 3
+    },
+    {
+      "key": "3e1914c1bbbab87e27763c492f8f5dc6",
+      "result": {
+        "company": "Ridenky",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ridenky.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 5
+    },
+    {
+      "key": "24b296d71424758af811e45e1c155cbd",
+      "result": {
+        "company": "Rideracine",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: rideracine.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 3
+    },
+    {
+      "key": "a3e9f0a7506a710b6e340b9ecaaaf3d7",
+      "result": {
+        "company": "Ridereadyservice",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: ridereadyservice.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661490,
+      "hits": 3
+    },
+    {
+      "key": "521dfc632a7124aa08ef2114794db996",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Automobiles 3 Valleys"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661490,
+      "hits": 4
+    },
+    {
+      "key": "d5e0eb201471283e755279ee03d20b0b",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Giraud Automobiles Stamp"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661491,
+      "hits": 4
+    },
+    {
+      "key": "8a2956d4d14c59e685c8a42be42b4c4e",
+      "result": {
+        "company": "Sans Permis Annecy",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis-annecy.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661491,
+      "hits": 4
+    },
+    {
+      "key": "b86509141e07f4c2b2418e399cad5704",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Immo-Auto"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661491,
+      "hits": 5
+    },
+    {
+      "key": "90b6c0fe2dab2a17274b0aa69442d670",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Autonomy 49"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661491,
+      "hits": 4
+    },
+    {
+      "key": "035bbe80b0eb17c5fbd8a4254f924053",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Marseille Without A License"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "515527c1c22d3bdd38cb3fee857c7b40",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Soreloc"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661492,
+      "hits": 5
+    },
+    {
+      "key": "0ea9f4820fdec69a6d82b0084bab2e14",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM ETS Chaize"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "3c3bc6345b1794cd25cfa7886d456692",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis38.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "d6970cf1407faa8dd7b4700c04e72d1f",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis61.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "cbb08a3405e462da41b50baf0882f27e",
+      "result": {
+        "company": "Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sans-permis89.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "a4d6576b1141123da0b17f49e3c1eb3b",
+      "result": {
+        "company": "Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sanspermis75.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661492,
+      "hits": 4
+    },
+    {
+      "key": "24aaa3902a083c564e687fa65bafbc5c",
+      "result": {
+        "company": "Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: sanspermis92.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661493,
+      "hits": 4
+    },
+    {
+      "key": "f66adf6530efc4fb4075ef1cbd28c8f5",
+      "result": {
+        "company": "Shop Polarisatv",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: shop-polarisatv.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661493,
+      "hits": 4
+    },
+    {
+      "key": "5009f2e10cfe39365885362000c66547",
+      "result": {
+        "company": "Shop",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: shop.polarismedina.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661493,
+      "hits": 4
+    },
+    {
+      "key": "a34e5caadc65c25561d72a966deaabc1",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: Polaris Australia"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661493,
+      "hits": 4
+    },
+    {
+      "key": "4fd9da99d516853880a36eef94f55e1c",
+      "result": {
+        "company": "Showroom",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: showroom.polarismedina.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661493,
+      "hits": 4
+    },
+    {
+      "key": "66b19a55bfe44973d2d074d96d71bea2",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id1513586025"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960661595,
+      "hits": 3
+    },
+    {
+      "key": "45f11743cfc6afa9d223a0a2f206ddb2",
+      "result": {
+        "company": "Polaris Inc",
+        "confidence": 95,
+        "evidence": [
+          "Domain match: slingshot.polaris.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661595,
+      "hits": 2
+    },
+    {
+      "key": "7d2b36fcd83e644ef7b34d0927e003ca",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id1414577573"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960661696,
+      "hits": 12
+    },
+    {
+      "key": "75240f2cffdd524d467512fefa919464",
+      "result": {
+        "company": "Https://apps",
+        "confidence": 65,
+        "evidence": [
+          "Extracted from bundle ID: https://apps.apple.com/app/id1671133176"
+        ],
+        "method": "app_bundle_id"
+      },
+      "timestamp": 1748960661797,
+      "hits": 2
+    },
+    {
+      "key": "426faccbe3be29e8bd37776c9e325637",
+      "result": {
+        "company": "Axiam Soreva",
+        "confidence": 60,
+        "evidence": [
+          "Extracted from title: AXIAM Soreva"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661899,
+      "hits": 4
+    },
+    {
+      "key": "7c342599c586b4c075ad302cc76b23e9",
+      "result": {
+        "company": "Thollot Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: thollot-sans-permis.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 4
+    },
+    {
+      "key": "e32bf01d9f0f72a68fb36ea87037c311",
+      "result": {
+        "company": "Thomas Sanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: thomas-sanspermis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 4
+    },
+    {
+      "key": "3eed66cd5d9c431558d990e67831d391",
+      "result": {
+        "company": "Timbersled",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: timbersled.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 3
+    },
+    {
+      "key": "7cc141833b7afdba963da824e8428967",
+      "result": {
+        "company": "Timbersled",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: timbersled.jp"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 6
+    },
+    {
+      "key": "1cc84068170f49987628772bc56576b3",
+      "result": {
+        "company": "Trailtech",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: trailtech.net"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 6
+    },
+    {
+      "key": "df86e2f640876c1a3d8acdc7d314b8e3",
+      "result": {
+        "company": "Twincitiesindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: twincitiesindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 10
+    },
+    {
+      "key": "9d6a524b35320143aa73dd9e8a830e35",
+      "result": {
+        "company": "Vivant Mobilite",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vivant-mobilite.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661899,
+      "hits": 3
+    },
+    {
+      "key": "f71613a11819f4fce5ba19261b6a61ae",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-13.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "e8a4b1c40ce7d95b8b0b520bc3a47dac",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-27.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "0c3bf92015f8bc86a73c94a4aa52bab6",
+      "result": {
+        "company": "AIXAM",
+        "parentCompany": "AIXAM Group",
+        "confidence": 85,
+        "evidence": [
+          "Title keyword match: AIXAM Garage Pyrenees Mirassou"
+        ],
+        "method": "title_analysis"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "411a2a96eaae7255396f0bf7bf6f96de",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-68.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 5
+    },
+    {
+      "key": "68a1206f174c73c8f71ea9f8272c9ae5",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-77.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "8846b60893db144474d4af7464dbfd8e",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-78.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "bb2f336b71c2b3cba82d92d2c53fdbd6",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-85.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "f414af7b842981c754b84a59ba637460",
+      "result": {
+        "company": "Voiture Sans Permis Cambresis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-cambresis.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "47cd7faada966bf9c31f4ef670fbfccb",
+      "result": {
+        "company": "Voiture Sans Permis Evreux",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-evreux.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "92ec3de3a2b2c5de7cc510209f338f70",
+      "result": {
+        "company": "Voiture Sans Permis Lyon",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-lyon.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "7947a0edf3985d575769f18eb6dfece8",
+      "result": {
+        "company": "Voiture Sans Permis Strasbourg",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis-strasbourg.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 1
+    },
+    {
+      "key": "810ec287ad4917190948be20c44c66a5",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis18.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "f8cdd9e90f03aa032e6ac57703e4ec36",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis37.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661900,
+      "hits": 4
+    },
+    {
+      "key": "2c4bee404bda38bed523e898591a2d81",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis61.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "f1b22e1487bda7d4f8b12eaa3fe397de",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis78.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 3
+    },
+    {
+      "key": "1b7c834e50732a902c7d30912ee7b099",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis83.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "cf98f79f31b5ee880ad6ebf5ffac22d8",
+      "result": {
+        "company": "Voiture Sans Permis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voiture-sans-permis95.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "676a875f81ecf85c13c64fd55289fa1e",
+      "result": {
+        "company": "Voituressanspermis",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: voituressanspermis45.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "2fb05010acce32af83644fd5f473a1c4",
+      "result": {
+        "company": "Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vsp61.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "b1fc60009a00eec6ca8ddbfea35c9284",
+      "result": {
+        "company": "Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vsp72.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 3
+    },
+    {
+      "key": "b8a9cf9b744d8e4ffb15bed7cf7fc335",
+      "result": {
+        "company": "Vsp",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: vsp77.fr"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 4
+    },
+    {
+      "key": "532642124260c7bfed99add50faba828",
+      "result": {
+        "company": "Walkerevansracing",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: walkerevansracing.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 3
+    },
+    {
+      "key": "7b899a3700be7151b182bbcd565458ed",
+      "result": {
+        "company": "Warhorseindianmotorcycle",
+        "confidence": 70,
+        "evidence": [
+          "Extracted from domain: warhorseindianmotorcycle.com"
+        ],
+        "method": "domain_matching"
+      },
+      "timestamp": 1748960661901,
+      "hits": 9
+    }
+  ]
+}
