@@ -1,0 +1,1193 @@
+{
+  "patterns": {
+    "spam.com": {
+      "pattern": "spam.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:35.175Z",
+      "sources": [
+        "spam.com"
+      ]
+    },
+    "spam": {
+      "pattern": "spam",
+      "company": "Hormel Foods Corporation",
+      "confidence": 0.5,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:35.175Z",
+      "sources": [
+        "spam.com"
+      ]
+    },
+    "plantersnutmobile.com": {
+      "pattern": "plantersnutmobile.com",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:35.176Z",
+      "sources": [
+        "plantersnutmobile.com"
+      ]
+    },
+    "plantersnutmobile": {
+      "pattern": "plantersnutmobile",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:35.176Z",
+      "sources": [
+        "plantersnutmobile.com"
+      ]
+    },
+    "applegate": {
+      "pattern": "applegate",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.925,
+      "occurrences": 4,
+      "lastSeen": "2025-06-07T12:29:44.143Z",
+      "sources": [
+        "Applegate",
+        "applegate.zendesk.com/hc/en-us",
+        "applegate.com",
+        "ftp.applegate.com"
+      ]
+    },
+    "hormelfoods.com": {
+      "pattern": "hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.411Z",
+      "sources": [
+        "hormelfoods.com"
+      ]
+    },
+    "hormelfoods": {
+      "pattern": "hormelfoods",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 11,
+      "lastSeen": "2025-06-07T12:30:07.428Z",
+      "sources": [
+        "investorday.hormelfoods.com",
+        "2011csr.hormelfoods.com",
+        "2014csr.hormelfoods.com",
+        "2013csr.hormelfoods.com",
+        "smartlabel.hormelfoods.com/product-info/20027086184046",
+        "privacy.hormelfoods.com",
+        "nutrition.hormelfoods.com",
+        "2015csr.hormelfoods.com",
+        "2010csr.hormelfoods.com",
+        "investor.hormelfoods.com"
+      ]
+    },
+    "hormelinspiredpathways.com": {
+      "pattern": "hormelinspiredpathways.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "hormelinspiredpathways.com"
+      ]
+    },
+    "hormelinspiredpathways": {
+      "pattern": "hormelinspiredpathways",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "hormelinspiredpathways.com"
+      ]
+    },
+    "investorday.hormelfoods.com": {
+      "pattern": "investorday.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "investorday.hormelfoods.com"
+      ]
+    },
+    "investorday": {
+      "pattern": "investorday",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "investorday.hormelfoods.com"
+      ]
+    },
+    "skippy.com.ph": {
+      "pattern": "skippy.com.ph",
+      "company": "Skippy Foods, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "skippy.com.ph"
+      ]
+    },
+    "skippy": {
+      "pattern": "skippy",
+      "company": "Skippy Foods, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.412Z",
+      "sources": [
+        "skippy.com.ph"
+      ]
+    },
+    "peanutbutter.id": {
+      "pattern": "peanutbutter.id",
+      "company": "Skippy Foods, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "www.peanutbutter.id"
+      ]
+    },
+    "peanutbutter": {
+      "pattern": "peanutbutter",
+      "company": "J.M. Smucker Company",
+      "confidence": 0.7,
+      "occurrences": 2,
+      "lastSeen": "2025-06-07T12:29:56.979Z",
+      "sources": [
+        "www.peanutbutter.id",
+        "locator.peanutbutter.com"
+      ]
+    },
+    "2011csr.hormelfoods.com": {
+      "pattern": "2011csr.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2011csr.hormelfoods.com"
+      ]
+    },
+    "2011csr": {
+      "pattern": "2011csr",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2011csr.hormelfoods.com"
+      ]
+    },
+    "2014csr.hormelfoods.com": {
+      "pattern": "2014csr.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2014csr.hormelfoods.com"
+      ]
+    },
+    "2014csr": {
+      "pattern": "2014csr",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2014csr.hormelfoods.com"
+      ]
+    },
+    "2013csr.hormelfoods.com": {
+      "pattern": "2013csr.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2013csr.hormelfoods.com"
+      ]
+    },
+    "2013csr": {
+      "pattern": "2013csr",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.413Z",
+      "sources": [
+        "2013csr.hormelfoods.com"
+      ]
+    },
+    "meat.burkecorp.com": {
+      "pattern": "meat.burkecorp.com",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.414Z",
+      "sources": [
+        "meat.burkecorp.com/requestasample/?utm_source=website&utm_medium=display&utm_campaign=request_a_sample_website&utm_content=requestasamplewebsite&campaign=7010P0000011M8G"
+      ]
+    },
+    "meat": {
+      "pattern": "meat",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:41.414Z",
+      "sources": [
+        "meat.burkecorp.com/requestasample/?utm_source=website&utm_medium=display&utm_campaign=request_a_sample_website&utm_content=requestasamplewebsite&campaign=7010P0000011M8G"
+      ]
+    },
+    "burkecorp": {
+      "pattern": "burkecorp",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 3,
+      "lastSeen": "2025-06-07T12:30:01.276Z",
+      "sources": [
+        "meat.burkecorp.com/requestasample/?utm_source=website&utm_medium=display&utm_campaign=request_a_sample_website&utm_content=requestasamplewebsite&campaign=7010P0000011M8G",
+        "alternatives.burkecorp.com",
+        "burkecorp.com"
+      ]
+    },
+    "applegate.zendesk.com": {
+      "pattern": "applegate.zendesk.com",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.139Z",
+      "sources": [
+        "applegate.zendesk.com/hc/en-us"
+      ]
+    },
+    "zendesk": {
+      "pattern": "zendesk",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.139Z",
+      "sources": [
+        "applegate.zendesk.com/hc/en-us"
+      ]
+    },
+    "applegate.com": {
+      "pattern": "applegate.com",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.140Z",
+      "sources": [
+        "applegate.com"
+      ]
+    },
+    "garudafood.com": {
+      "pattern": "garudafood.com",
+      "company": "GarudaFood",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.141Z",
+      "sources": [
+        "garudafood.com"
+      ]
+    },
+    "garudafood": {
+      "pattern": "garudafood",
+      "company": "GarudaFood",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.141Z",
+      "sources": [
+        "garudafood.com"
+      ]
+    },
+    "shop.planters.com": {
+      "pattern": "shop.planters.com",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.142Z",
+      "sources": [
+        "shop.planters.com"
+      ]
+    },
+    "shop": {
+      "pattern": "shop",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.142Z",
+      "sources": [
+        "shop.planters.com"
+      ]
+    },
+    "planters": {
+      "pattern": "planters",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.95,
+      "occurrences": 2,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "shop.planters.com",
+        "planters.com"
+      ]
+    },
+    "ftp.applegate.com": {
+      "pattern": "ftp.applegate.com",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.8,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.143Z",
+      "sources": [
+        "ftp.applegate.com"
+      ]
+    },
+    "ftp": {
+      "pattern": "ftp",
+      "company": "Applegate Farms, LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.8,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.143Z",
+      "sources": [
+        "ftp.applegate.com"
+      ]
+    },
+    "staggchili.com.au": {
+      "pattern": "staggchili.com.au",
+      "company": "Stagg Chili",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.144Z",
+      "sources": [
+        "staggchili.com.au"
+      ]
+    },
+    "staggchili": {
+      "pattern": "staggchili",
+      "company": "Stagg Chili",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.144Z",
+      "sources": [
+        "staggchili.com.au"
+      ]
+    },
+    "resources.hormelfoodservice.com": {
+      "pattern": "resources.hormelfoodservice.com",
+      "company": "Hormel Foodservice",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.144Z",
+      "sources": [
+        "resources.hormelfoodservice.com"
+      ]
+    },
+    "resources": {
+      "pattern": "resources",
+      "company": "Hormel Foodservice",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.144Z",
+      "sources": [
+        "resources.hormelfoodservice.com"
+      ]
+    },
+    "hormelfoodservice": {
+      "pattern": "hormelfoodservice",
+      "company": "Hormel Foods Corporation",
+      "confidence": 0.75,
+      "occurrences": 2,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "resources.hormelfoodservice.com",
+        "sales.hormelfoodservice.com/breakfast-sausage-competitor-database"
+      ]
+    },
+    "peanutbutter.mx": {
+      "pattern": "peanutbutter.mx",
+      "company": "Skippy",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.145Z",
+      "sources": [
+        "peanutbutter.mx"
+      ]
+    },
+    "thehormelfoundation.com": {
+      "pattern": "thehormelfoundation.com",
+      "company": "The Hormel Foundation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.145Z",
+      "sources": [
+        "thehormelfoundation.com"
+      ]
+    },
+    "thehormelfoundation": {
+      "pattern": "thehormelfoundation",
+      "company": "The Hormel Foundation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.145Z",
+      "sources": [
+        "thehormelfoundation.com"
+      ]
+    },
+    "store.spam.com": {
+      "pattern": "store.spam.com",
+      "company": "SPAM",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.145Z",
+      "sources": [
+        "store.spam.com"
+      ]
+    },
+    "store": {
+      "pattern": "store",
+      "company": "SPAM",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:44.145Z",
+      "sources": [
+        "store.spam.com"
+      ]
+    },
+    "sadlerssmokehouse.com": {
+      "pattern": "sadlerssmokehouse.com",
+      "company": "Sadler's Smokehouse",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.978Z",
+      "sources": [
+        "sadlerssmokehouse.com"
+      ]
+    },
+    "sadlerssmokehouse": {
+      "pattern": "sadlerssmokehouse",
+      "company": "Sadler's Smokehouse",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.978Z",
+      "sources": [
+        "sadlerssmokehouse.com"
+      ]
+    },
+    "locator.peanutbutter.com": {
+      "pattern": "locator.peanutbutter.com",
+      "company": "J.M. Smucker Company",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.979Z",
+      "sources": [
+        "locator.peanutbutter.com"
+      ]
+    },
+    "locator": {
+      "pattern": "locator",
+      "company": "J.M. Smucker Company",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.979Z",
+      "sources": [
+        "locator.peanutbutter.com"
+      ]
+    },
+    "justins.com": {
+      "pattern": "justins.com",
+      "company": "Justin's LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.979Z",
+      "sources": [
+        "justins.com"
+      ]
+    },
+    "justins": {
+      "pattern": "justins",
+      "company": "Justin's LLC",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.979Z",
+      "sources": [
+        "justins.com"
+      ]
+    },
+    "hormelhealthlabs.com": {
+      "pattern": "hormelhealthlabs.com",
+      "company": "Hormel Health Labs",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "hormelhealthlabs.com"
+      ]
+    },
+    "hormelhealthlabs": {
+      "pattern": "hormelhealthlabs",
+      "company": "Hormel Health Labs",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "hormelhealthlabs.com"
+      ]
+    },
+    "planters.com": {
+      "pattern": "planters.com",
+      "company": "Planters",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "planters.com"
+      ]
+    },
+    "hormelinternationalfoodservice.com": {
+      "pattern": "hormelinternationalfoodservice.com",
+      "company": "Hormel International Foodservice",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "hormelinternationalfoodservice.com"
+      ]
+    },
+    "hormelinternationalfoodservice": {
+      "pattern": "hormelinternationalfoodservice",
+      "company": "Hormel International Foodservice",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "hormelinternationalfoodservice.com"
+      ]
+    },
+    "hormelingredientsolutions.com": {
+      "pattern": "hormelingredientsolutions.com",
+      "company": "Hormel Ingredient Solutions",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.980Z",
+      "sources": [
+        "hormelingredientsolutions.com"
+      ]
+    },
+    "hormelingredientsolutions": {
+      "pattern": "hormelingredientsolutions",
+      "company": "Hormel Ingredient Solutions",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 2,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "hormelingredientsolutions.com",
+        "ideas.hormelingredientsolutions.com/mexicaninspired"
+      ]
+    },
+    "ideas.hormelingredientsolutions.com": {
+      "pattern": "ideas.hormelingredientsolutions.com",
+      "company": "Hormel Ingredient Solutions",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "ideas.hormelingredientsolutions.com/mexicaninspired"
+      ]
+    },
+    "ideas": {
+      "pattern": "ideas",
+      "company": "Hormel Ingredient Solutions",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "ideas.hormelingredientsolutions.com/mexicaninspired"
+      ]
+    },
+    "hormel.com.cn": {
+      "pattern": "hormel.com.cn",
+      "company": "Hormel Foods",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "hormel.com.cn"
+      ]
+    },
+    "hormel": {
+      "pattern": "hormel",
+      "company": "Hormel Foods Corporation",
+      "confidence": 0.9,
+      "occurrences": 5,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "hormel.com.cn",
+        "hormel.com",
+        "hormel.ca",
+        "flavorscapes.hormel.com",
+        "scripts.hormel.com"
+      ]
+    },
+    "heritageimc.com": {
+      "pattern": "heritageimc.com",
+      "company": "Heritage Premium Meats",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "heritageimc.com"
+      ]
+    },
+    "heritageimc": {
+      "pattern": "heritageimc",
+      "company": "Heritage Premium Meats",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:56.981Z",
+      "sources": [
+        "heritageimc.com"
+      ]
+    },
+    "hormelfoodservice.com": {
+      "pattern": "hormelfoodservice.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.166Z",
+      "sources": [
+        "hormelfoodservice.com"
+      ]
+    },
+    "culinarypairingsreviews.hormel.com": {
+      "pattern": "culinarypairingsreviews.hormel.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.166Z",
+      "sources": [
+        "culinarypairingsreviews.hormel.com"
+      ]
+    },
+    "culinarypairingsreviews": {
+      "pattern": "culinarypairingsreviews",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.166Z",
+      "sources": [
+        "culinarypairingsreviews.hormel.com"
+      ]
+    },
+    "sales.hormelfoodservice.com": {
+      "pattern": "sales.hormelfoodservice.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "sales.hormelfoodservice.com/breakfast-sausage-competitor-database"
+      ]
+    },
+    "sales": {
+      "pattern": "sales",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "sales.hormelfoodservice.com/breakfast-sausage-competitor-database"
+      ]
+    },
+    "hormel.com": {
+      "pattern": "hormel.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "hormel.com"
+      ]
+    },
+    "cornnuts.com": {
+      "pattern": "cornnuts.com",
+      "company": "Kraft Heinz",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "cornnuts.com"
+      ]
+    },
+    "cornnuts": {
+      "pattern": "cornnuts",
+      "company": "Kraft Heinz",
+      "confidence": 0.9,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "cornnuts.com"
+      ]
+    },
+    "hormel.ca": {
+      "pattern": "hormel.ca",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "hormel.ca"
+      ]
+    },
+    "alternatives.burkecorp.com": {
+      "pattern": "alternatives.burkecorp.com",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "alternatives.burkecorp.com"
+      ]
+    },
+    "alternatives": {
+      "pattern": "alternatives",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.167Z",
+      "sources": [
+        "alternatives.burkecorp.com"
+      ]
+    },
+    "flavorscapes.hormel.com": {
+      "pattern": "flavorscapes.hormel.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "flavorscapes.hormel.com"
+      ]
+    },
+    "flavorscapes": {
+      "pattern": "flavorscapes",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "flavorscapes.hormel.com"
+      ]
+    },
+    "scripts.hormel.com": {
+      "pattern": "scripts.hormel.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "scripts.hormel.com"
+      ]
+    },
+    "scripts": {
+      "pattern": "scripts",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "scripts.hormel.com"
+      ]
+    },
+    "dilussodeli.com": {
+      "pattern": "dilussodeli.com",
+      "company": "Di Lusso Deli Company",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "dilussodeli.com"
+      ]
+    },
+    "dilussodeli": {
+      "pattern": "dilussodeli",
+      "company": "Di Lusso Deli Company",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:29:58.168Z",
+      "sources": [
+        "dilussodeli.com"
+      ]
+    },
+    "dansprize.com": {
+      "pattern": "dansprize.com",
+      "company": "Dan's Prize",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.272Z",
+      "sources": [
+        "dansprize.com"
+      ]
+    },
+    "dansprize": {
+      "pattern": "dansprize",
+      "company": "Dan's Prize",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.272Z",
+      "sources": [
+        "dansprize.com"
+      ]
+    },
+    "columbuscraftmeats.com": {
+      "pattern": "columbuscraftmeats.com",
+      "company": "Columbus Craft Meats",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.273Z",
+      "sources": [
+        "columbuscraftmeats.com"
+      ]
+    },
+    "columbuscraftmeats": {
+      "pattern": "columbuscraftmeats",
+      "company": "Columbus Craft Meats",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.273Z",
+      "sources": [
+        "columbuscraftmeats.com"
+      ]
+    },
+    "burke.nationjob.com": {
+      "pattern": "burke.nationjob.com",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.274Z",
+      "sources": [
+        "burke.nationjob.com"
+      ]
+    },
+    "burke": {
+      "pattern": "burke",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.274Z",
+      "sources": [
+        "burke.nationjob.com"
+      ]
+    },
+    "nationjob": {
+      "pattern": "nationjob",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.274Z",
+      "sources": [
+        "burke.nationjob.com"
+      ]
+    },
+    "ceratti.com.br": {
+      "pattern": "ceratti.com.br",
+      "company": "Ceratti",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.275Z",
+      "sources": [
+        "ceratti.com.br"
+      ]
+    },
+    "ceratti": {
+      "pattern": "ceratti",
+      "company": "Ceratti",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.275Z",
+      "sources": [
+        "ceratti.com.br"
+      ]
+    },
+    "centuryfoods.com": {
+      "pattern": "centuryfoods.com",
+      "company": "Century Foods International",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.275Z",
+      "sources": [
+        "centuryfoods.com"
+      ]
+    },
+    "centuryfoods": {
+      "pattern": "centuryfoods",
+      "company": "Century Foods International",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.275Z",
+      "sources": [
+        "centuryfoods.com"
+      ]
+    },
+    "burkecorp.com": {
+      "pattern": "burkecorp.com",
+      "company": "Burke Corporation",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.276Z",
+      "sources": [
+        "burkecorp.com"
+      ]
+    },
+    "smartlabel.hormelfoods.com": {
+      "pattern": "smartlabel.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.276Z",
+      "sources": [
+        "smartlabel.hormelfoods.com/product-info/20027086184046"
+      ]
+    },
+    "smartlabel": {
+      "pattern": "smartlabel",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.276Z",
+      "sources": [
+        "smartlabel.hormelfoods.com/product-info/20027086184046"
+      ]
+    },
+    "privacy.hormelfoods.com": {
+      "pattern": "privacy.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.277Z",
+      "sources": [
+        "privacy.hormelfoods.com"
+      ]
+    },
+    "privacy": {
+      "pattern": "privacy",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.277Z",
+      "sources": [
+        "privacy.hormelfoods.com"
+      ]
+    },
+    "nutrition.hormelfoods.com": {
+      "pattern": "nutrition.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.277Z",
+      "sources": [
+        "nutrition.hormelfoods.com"
+      ]
+    },
+    "nutrition": {
+      "pattern": "nutrition",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.277Z",
+      "sources": [
+        "nutrition.hormelfoods.com"
+      ]
+    },
+    "2015csr.hormelfoods.com": {
+      "pattern": "2015csr.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.278Z",
+      "sources": [
+        "2015csr.hormelfoods.com"
+      ]
+    },
+    "2015csr": {
+      "pattern": "2015csr",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:01.278Z",
+      "sources": [
+        "2015csr.hormelfoods.com"
+      ]
+    },
+    "2010csr.hormelfoods.com": {
+      "pattern": "2010csr.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.427Z",
+      "sources": [
+        "2010csr.hormelfoods.com"
+      ]
+    },
+    "2010csr": {
+      "pattern": "2010csr",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.427Z",
+      "sources": [
+        "2010csr.hormelfoods.com"
+      ]
+    },
+    "jennieo.com": {
+      "pattern": "jennieo.com",
+      "company": "Jennie-O Turkey Store",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.428Z",
+      "sources": [
+        "jennieo.com"
+      ]
+    },
+    "jennieo": {
+      "pattern": "jennieo",
+      "company": "Jennie-O Turkey Store",
+      "parentCompany": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.428Z",
+      "sources": [
+        "jennieo.com"
+      ]
+    },
+    "investor.hormelfoods.com": {
+      "pattern": "investor.hormelfoods.com",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.428Z",
+      "sources": [
+        "investor.hormelfoods.com"
+      ]
+    },
+    "investor": {
+      "pattern": "investor",
+      "company": "Hormel Foods Corporation",
+      "confidence": 1,
+      "occurrences": 1,
+      "lastSeen": "2025-06-07T12:30:07.428Z",
+      "sources": [
+        "investor.hormelfoods.com"
+      ]
+    }
+  },
+  "domainMappings": {
+    "spam": "Hormel Foods Corporation",
+    "plantersnutmobile": "Planters",
+    "hormelfoods": "Hormel Foods Corporation",
+    "hormelinspiredpathways": "Hormel Foods Corporation",
+    "investorday": "Hormel Foods Corporation",
+    "skippy": "Skippy Foods, LLC",
+    "peanutbutter": "Skippy Foods, LLC",
+    "2011csr": "Hormel Foods Corporation",
+    "2014csr": "Hormel Foods Corporation",
+    "2013csr": "Hormel Foods Corporation",
+    "meat": "Burke Corporation",
+    "applegate": "Applegate Farms, LLC",
+    "garudafood": "GarudaFood",
+    "shop": "Planters",
+    "staggchili": "Stagg Chili",
+    "resources": "Hormel Foodservice",
+    "thehormelfoundation": "The Hormel Foundation",
+    "store": "SPAM",
+    "sadlerssmokehouse": "Sadler's Smokehouse",
+    "locator": "J.M. Smucker Company",
+    "justins": "Justin's LLC",
+    "hormelhealthlabs": "Hormel Health Labs",
+    "planters": "Planters",
+    "hormelinternationalfoodservice": "Hormel International Foodservice",
+    "hormelingredientsolutions": "Hormel Ingredient Solutions",
+    "ideas": "Hormel Ingredient Solutions",
+    "hormel": "Hormel Foods",
+    "heritageimc": "Heritage Premium Meats",
+    "hormelfoodservice": "Hormel Foods Corporation",
+    "culinarypairingsreviews": "Hormel Foods Corporation",
+    "sales": "Hormel Foods Corporation",
+    "cornnuts": "Kraft Heinz",
+    "alternatives": "Burke Corporation",
+    "flavorscapes": "Hormel Foods Corporation",
+    "scripts": "Hormel Foods Corporation",
+    "dilussodeli": "Di Lusso Deli Company",
+    "dansprize": "Dan's Prize",
+    "columbuscraftmeats": "Columbus Craft Meats",
+    "burke": "Burke Corporation",
+    "ceratti": "Ceratti",
+    "centuryfoods": "Century Foods International",
+    "burkecorp": "Burke Corporation",
+    "smartlabel": "Hormel Foods Corporation",
+    "privacy": "Hormel Foods Corporation",
+    "nutrition": "Hormel Foods Corporation",
+    "2015csr": "Hormel Foods Corporation",
+    "2010csr": "Hormel Foods Corporation",
+    "jennieo": "Jennie-O Turkey Store",
+    "investor": "Hormel Foods Corporation"
+  },
+  "subdomainRules": []
+}

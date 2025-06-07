@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Agent 3 Results Preview</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        .highlight { background-color: #ffffcc; }
+        h2 { color: #333; }
+        .summary { background-color: #e7f3ff; padding: 15px; border-radius: 5px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>Agent 3 Company Identification Results</h1>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <p><strong>File:</strong> Polaris_CompanyID_Sample_v3.xlsx</p>
+        <p><strong>Total Rows Processed:</strong> 2,135</p>
+        <p><strong>Key Achievement:</strong> Successfully identified Aixam from dealer website "abb-vsp.com"</p>
+    </div>
+
+    <h2>Sample Results - First 10 Rows with Company Identification</h2>
+    <p>This shows the actual output from Agent 3's implementation:</p>
+    
+    <table>
+        <tr>
+            <th>Row</th>
+            <th>Website/App Title</th>
+            <th>URL</th>
+            <th>Identified Company</th>
+            <th>Parent Company</th>
+            <th>Confidence</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>AIXAM 100 Licenses</td>
+            <td>100-permis.com</td>
+            <td><strong>Aixam</strong></td>
+            <td>Polaris Industries</td>
+            <td>95%</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>AIXAM 100 Licenses</td>
+            <td>100-permis.com</td>
+            <td><strong>Aixam</strong></td>
+            <td>Polaris Industries</td>
+            <td>95%</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>-</td>
+            <td>fwindian.com</td>
+            <td><strong>Indian Motorcycle</strong></td>
+            <td>Polaris Inc.</td>
+            <td>95%</td>
+        </tr>
+        <tr class="highlight">
+            <td>9</td>
+            <td>AIXAM ABB VSP</td>
+            <td>abb-vsp.com</td>
+            <td><strong>Aixam</strong></td>
+            <td>Polaris Industries</td>
+            <td>95%</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>-</td>
+            <td>ace.polaris.com</td>
+            <td><strong>Polaris Inc</strong></td>
+            <td>-</td>
+            <td>90%</td>
+        </tr>
+    </table>
+
+    <h2>Critical Test Case - Highlighted Above</h2>
+    <p>Row 9 shows the critical Aixam dealer test case:</p>
+    <ul>
+        <li><strong>Input:</strong> "abb-vsp.com" (a dealer website, not Aixam's main site)</li>
+        <li><strong>Result:</strong> Correctly identified as "Aixam" with parent "Polaris Industries"</li>
+        <li><strong>Confidence:</strong> 95%</li>
+    </ul>
+
+    <h2>Performance Metrics (from Agent 3's Analysis)</h2>
+    <ul>
+        <li>Identification rate: 90%</li>
+        <li>High confidence rate: 84%</li>
+        <li>Parent company detection: 72%</li>
+        <li>Processing time: ~38 minutes for 2,135 rows</li>
+        <li>Cost: $7.69 total ($0.0036 per company)</li>
+    </ul>
+
+    <h2>File Location</h2>
+    <p>Full Excel file with all 2,135 rows is located at:</p>
+    <code>/Users/alexjohnson/Dev Projects/GitHub/BrandFontsIQ-vNextJS15/trees/company_id_v3-3/output/Polaris_CompanyID_Sample_v3.xlsx</code>
+</body>
+</html>

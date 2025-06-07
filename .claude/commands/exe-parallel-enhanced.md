@@ -1,10 +1,10 @@
-# Enhanced Parallel Task Execution
+# Enhanced Parallel Task Execution with Safety Checks
 
 ## Variables
 PLAN_TO_EXECUTE: $ARGUMENTS
 NUMBER_OF_PARALLEL_WORKTREES: $ARGUMENTS
 
-## Pre-execution Setup
+## Pre-execution Safety Checks
 RUN `clear`
 RUN `echo "🚀 PARALLEL AGENT EXECUTION STARTING 🚀"`
 RUN `echo "================================================"`
@@ -12,50 +12,44 @@ RUN `echo "📋 Specification: $PLAN_TO_EXECUTE"`
 RUN `echo "🔢 Parallel Agents: $NUMBER_OF_PARALLEL_WORKTREES"`
 RUN `echo "================================================"`
 
-## Show Current State
+## 1. Verify Working Directory
+RUN `echo "\n🔍 Checking working directory..."`
+RUN `pwd`
+RUN `if [[ ! -f "package.json" ]] || [[ ! -d ".claude" ]]; then echo "❌ ERROR: Not in project root! Please cd to project root first."; exit 1; else echo "✅ Working directory verified"; fi`
+
+## 2. Verify Specification File
+RUN `if [[ ! -f "$PLAN_TO_EXECUTE" ]]; then echo "❌ ERROR: Specification file not found: $PLAN_TO_EXECUTE"; exit 1; else echo "✅ Specification file found"; fi`
+
+## 3. Detect Feature Name from Worktrees
+RUN `feature_pattern=$(ls -d trees/*-1 2>/dev/null | head -1 | sed 's|trees/||' | sed 's|-1$||')`
+RUN `if [[ -z "$feature_pattern" ]]; then echo "❌ ERROR: No worktrees found! Run /simple-init-parallel <feature-name> first"; exit 1; else echo "✅ Feature detected: $feature_pattern"; fi`
+
+## 4. Show Current Worktrees
 RUN `echo "\n📁 Current worktrees:"`
-RUN `git worktree list | grep -E "company-id-real-[0-9]" || echo "No existing worktrees"`
+RUN `git worktree list | grep -E "trees/${feature_pattern}-[0-9]" || echo "No matching worktrees"`
 
-## Launch Monitoring Script
-Create a monitoring script that runs in the background:
+## 5. Verify All Worktrees Ready
+RUN `echo "\n🔍 Verifying worktrees..."`
+RUN `all_ready=true; for i in $(seq 1 $NUMBER_OF_PARALLEL_WORKTREES); do dir="trees/${feature_pattern}-${i}"; echo -n "  Agent $i: "; if [[ ! -d "$dir" ]]; then echo "❌ Missing"; all_ready=false; elif [[ ! -f "$dir/package.json" ]]; then echo "❌ Not initialized"; all_ready=false; else echo "✅ Ready"; fi; done; if [[ "$all_ready" != "true" ]]; then echo "\n❌ ERROR: Not all worktrees ready. Run /simple-init-parallel ${feature_pattern} first"; exit 1; fi`
 
-```bash
-cat > /tmp/monitor-agents.sh << 'EOF'
-#!/usr/bin/env zsh
-feature_name=$(echo "$1" | sed 's/.*sprint-[0-9]*-//' | sed 's/\.md$//')
+## 6. Check for API Key if Needed
+RUN `if grep -q "OPENAI\|GPT\|LLM" "$PLAN_TO_EXECUTE" 2>/dev/null; then echo "\n🔑 Checking API keys..."; if [[ -z "$OPENAI_API_KEY" ]]; then echo "⚠️  WARNING: OpenAI API key not set. Agents may fail if they need API access."; echo "   To set: export OPENAI_API_KEY='your-key-here'"; else echo "✅ OpenAI API key found"; fi; fi`
 
-while true; do
-  echo -e "\033[2J\033[H"  # Clear screen and move to top
-  echo "🚀 PARALLEL AGENT MONITOR - $(date +%H:%M:%S)"
-  echo "================================================"
-  
-  for i in {1..3}; do
-    tree="trees/${feature_name}-${i}"
-    echo -n "Agent $i: "
-    
-    if [[ -f "$tree/RESULTS.md" ]]; then
-      echo "✅ COMPLETE"
-    elif [[ -d "$tree" ]]; then
-      changes=$(cd "$tree" 2>/dev/null && git status --porcelain | wc -l | tr -d ' ')
-      echo "🔄 WORKING ($changes changes)"
-    else
-      echo "⏳ PENDING"
-    fi
-  done
-  
-  echo "\n📊 Quick Stats:"
-  echo "Active Node processes: $(pgrep -f node | wc -l | tr -d ' ')"
-  echo "Total CPU usage: $(ps aux | awk '{sum+=$3} END {printf "%.1f%%", sum}')"
-  
-  sleep 3
-done
-EOF
-
-chmod +x /tmp/monitor-agents.sh
-```
-
-RUN `/tmp/monitor-agents.sh "$PLAN_TO_EXECUTE" &`
+## 7. Launch Background Monitor
+RUN `echo "\n🖥️  Launching background monitor..."`
+RUN `./monitor.sh > /tmp/monitor-output.log 2>&1 &`
 RUN `MONITOR_PID=$!`
+RUN `echo "Monitor PID: $MONITOR_PID"`
+
+## 8. Display Summary
+RUN `echo "\n================================================"`
+RUN `echo "📋 READY TO LAUNCH AGENTS"`
+RUN `echo "================================================"`
+RUN `echo "Feature: $feature_pattern"`
+RUN `echo "Specification: $PLAN_TO_EXECUTE"`
+RUN `echo "Agents: $NUMBER_OF_PARALLEL_WORKTREES"`
+RUN `echo "Monitor: Running (PID $MONITOR_PID)"`
+RUN `echo "================================================\n"`
 
 ## Read Specification
 READ: PLAN_TO_EXECUTE
@@ -64,33 +58,30 @@ READ: PLAN_TO_EXECUTE
 
 We're going to create NUMBER_OF_PARALLEL_WORKTREES new subagents that use the Task tool to create N versions of the same feature in parallel.
 
-IMPORTANT: For maximum visibility in Cursor's terminal:
-1. Each agent will output progress markers
-2. We'll use clear status indicators
-3. Terminal will show real-time updates
+IMPORTANT: 
+1. All safety checks have passed
+2. Monitor is running in background
+3. Each agent will work independently
 
 The agents will work in:
-- trees/<feature_name>-1/
-- trees/<feature_name>-2/
-- trees/<feature_name>-3/
+- trees/<feature_pattern>-1/
+- trees/<feature_pattern>-2/
+- trees/<feature_pattern>-3/
 
-## Launch Agents with Enhanced Output
+## Launch Agents
 
-For each agent, we'll:
-1. Show clear start messages
-2. Track progress in real-time
-3. Output to both terminal and log files
+Launch all agents simultaneously using the Task tool. Each agent should:
+1. Read the specification
+2. Work in their assigned worktree
+3. Create RESULTS.md with their approach
+4. Test their implementation
+5. NOT run npm run dev
 
-Each agent will:
-- Create a log file in their worktree
-- Update status in RESULTS.md incrementally
-- Show progress in terminal
+## Post-Execution
 
-## Post-Execution Summary
+After agents complete:
+1. Use ./agents-detailed.sh to review results
+2. Monitor will continue running
+3. To stop monitor: kill $MONITOR_PID
 
-After all agents complete:
-1. Kill the monitor script
-2. Show summary of results
-3. Highlight which implementation performed best
-
-RUN `echo "\n✨ Launching parallel agents now..."`
+RUN `echo "\n✨ Launching ${NUMBER_OF_PARALLEL_WORKTREES} parallel agents now..."`

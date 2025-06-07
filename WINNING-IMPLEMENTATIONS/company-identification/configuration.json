@@ -1,0 +1,41 @@
+{
+  "companyIdentification": {
+    "parentSubsidiaryMap": {
+      "Indian Motorcycle": "Polaris Inc",
+      "Victory Motorcycles": "Polaris Inc",
+      "Ranger": "Polaris Inc",
+      "RZR": "Polaris Inc",
+      "Sportsman": "Polaris Inc",
+      "General": "Polaris Inc",
+      "Slingshot": "Polaris Inc",
+      "Timbersled": "Polaris Inc",
+      "Taylor-Dunn": "Polaris Inc",
+      "GEM": "Polaris Inc",
+      "Aixam": "Polaris Inc",
+      "AIXAM": "Polaris Inc",
+      "Aixam-Mega": "Polaris Inc",
+      "Mega": "Polaris Inc"
+    },
+    "urlPatterns": {
+      "polaris.com": "Polaris Inc",
+      "indianmotorcycle.com": "Indian Motorcycle",
+      "rzr.com": "RZR",
+      "ranger.com": "Ranger",
+      "aixam.com": "Aixam",
+      "mega-automobiles.fr": "Mega"
+    }
+  },
+  "fontStandardization": {
+    "standardizationMap": {
+      "Gotham SSm": "Gotham Screen Smart",
+      "Gotham Screen Space Smart": "Gotham Screen Smart",
+      "GothamSSm": "Gotham Screen Smart",
+      "Bd": "Bold",
+      "Lt": "Light",
+      "Md": "Medium",
+      "Rg": "Regular",
+      "SemiBold": "Semi-Bold",
+      "Semibold": "Semi-Bold"
+    }
+  }
+}

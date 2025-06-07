@@ -1,0 +1,64 @@
+Original Data,Identified Company,Parent Company,Confidence,Is Subsidiary of Parent
+"Applegate | ","Applegate Farms, LLC","Hormel Foods Corporation",1,Yes
+"hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"hormelinspiredpathways.com | ","Hormel Foods Corporation","",1,No
+"investorday.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"skippy.com.ph | ","Skippy Foods, LLC","Hormel Foods Corporation",1,Yes
+"www.peanutbutter.id | ","Skippy Foods, LLC","Hormel Foods Corporation",1,Yes
+"2011csr.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"2014csr.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"2013csr.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"meat.burkecorp.com/requestasample/?utm_source=website&utm_medium=display&utm_campaign=request_a_sample_website&utm_content=requestasamplewebsite&campaign=7010P0000011M8G | ","Burke Corporation","Hormel Foods Corporation",1,Yes
+"applegate.zendesk.com/hc/en-us | ","Applegate Farms, LLC","Hormel Foods Corporation",0.9,Yes
+"applegate.com | ","Applegate Farms, LLC","Hormel Foods Corporation",1,Yes
+"garudafood.com | ","GarudaFood","",1,No
+"shop.planters.com | ","Planters","Hormel Foods Corporation",0.9,Yes
+"ftp.applegate.com | ","Applegate Farms, LLC","Hormel Foods Corporation",0.8,Yes
+"staggchili.com.au | ","Stagg Chili","Hormel Foods Corporation",0.9,Yes
+"resources.hormelfoodservice.com | ","Hormel Foodservice","Hormel Foods Corporation",1,Yes
+"peanutbutter.mx | ","Skippy","Hormel Foods Corporation",0.9,Yes
+"thehormelfoundation.com | ","The Hormel Foundation","",1,No
+"store.spam.com | ","SPAM","Hormel Foods Corporation",1,Yes
+"skippypeanutbutter.fr | ","Unknown","",0,No
+"peanutbutter.uk.com | ","Unknown","",0,No
+"peanutbutter.jpn.com | ","Unknown","",0,No
+"justinsnutsaboutbees.com | ","Unknown","",0,No
+"spamchina.com | ","Unknown","",0,No
+"spam.com | ","Hormel Foods Corporation","",1,No
+"peanutbutter.se | ","Unknown","",0,No
+"peanutbutter.com | ","Unknown","",0,No
+"plantersnutmobile.com | ","Planters","Hormel Foods Corporation",1,Yes
+"signup.peanutbutter.com | ","Unknown","",0,No
+"sadlerssmokehouse.com | ","Sadler's Smokehouse","Hormel Foods Corporation",1,Yes
+"locator.peanutbutter.com | ","J.M. Smucker Company","",0.9,No
+"justins.com | ","Justin's LLC","Hormel Foods Corporation",1,Yes
+"hormelhealthlabs.com | ","Hormel Health Labs","Hormel Foods Corporation",1,Yes
+"planters.com | ","Planters","Hormel Foods Corporation",1,Yes
+"hormelinternationalfoodservice.com | ","Hormel International Foodservice","Hormel Foods Corporation",1,Yes
+"hormelingredientsolutions.com | ","Hormel Ingredient Solutions","Hormel Foods Corporation",1,Yes
+"ideas.hormelingredientsolutions.com/mexicaninspired | ","Hormel Ingredient Solutions","Hormel Foods Corporation",1,Yes
+"hormel.com.cn | ","Hormel Foods","",1,No
+"heritageimc.com | ","Heritage Premium Meats","",1,No
+"hormelfoodservice.com | ","Hormel Foods Corporation","",1,No
+"culinarypairingsreviews.hormel.com | ","Hormel Foods Corporation","",1,No
+"sales.hormelfoodservice.com/breakfast-sausage-competitor-database | ","Hormel Foods Corporation","",1,No
+"hormel.com | ","Hormel Foods Corporation","",1,No
+"cornnuts.com | ","Kraft Heinz","",0.9,No
+"hormel.ca | ","Hormel Foods Corporation","",1,No
+"alternatives.burkecorp.com | ","Burke Corporation","Hormel Foods Corporation",1,Yes
+"flavorscapes.hormel.com | ","Hormel Foods Corporation","",1,No
+"scripts.hormel.com | ","Hormel Foods Corporation","",1,No
+"dilussodeli.com | ","Di Lusso Deli Company","Hormel Foods Corporation",1,Yes
+"dansprize.com | ","Dan's Prize","Hormel Foods Corporation",1,Yes
+"columbuscraftmeats.com | ","Columbus Craft Meats","Hormel Foods Corporation",1,Yes
+"burke.nationjob.com | ","Burke Corporation","Hormel Foods Corporation",1,Yes
+"ceratti.com.br | ","Ceratti","Hormel Foods Corporation",1,Yes
+"centuryfoods.com | ","Century Foods International","Hormel Foods Corporation",1,Yes
+"burkecorp.com | ","Burke Corporation","Hormel Foods Corporation",1,Yes
+"smartlabel.hormelfoods.com/product-info/20027086184046 | ","Hormel Foods Corporation","",1,No
+"privacy.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"nutrition.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"2015csr.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"2010csr.hormelfoods.com | ","Hormel Foods Corporation","",1,No
+"jennieo.com | ","Jennie-O Turkey Store","Hormel Foods Corporation",1,Yes
+"investor.hormelfoods.com | ","Hormel Foods Corporation","",1,No

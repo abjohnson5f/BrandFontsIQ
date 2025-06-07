@@ -1,0 +1,19 @@
+{
+  "companyIdentification": {
+    "parentSubsidiaryMap": {},
+    "urlPatterns": {}
+  },
+  "fontStandardization": {
+    "standardizationMap": {
+      "Gotham SSm": "Gotham Screen Smart",
+      "Gotham Screen Space Smart": "Gotham Screen Smart",
+      "GothamSSm": "Gotham Screen Smart",
+      "Bd": "Bold",
+      "Lt": "Light",
+      "Md": "Medium",
+      "Rg": "Regular",
+      "SemiBold": "Semi-Bold",
+      "Semibold": "Semi-Bold"
+    }
+  }
+}

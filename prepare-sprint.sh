@@ -1,1 +1,0 @@
-tools/sprint-management/prepare-sprint.sh

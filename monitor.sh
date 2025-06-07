@@ -1,1 +1,1 @@
-tools/monitoring/monitor.sh
+tools/monitor.sh
